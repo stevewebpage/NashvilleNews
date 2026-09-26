@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NashvilleNews.us — Local news, straight talk</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#EFEBE2;
+    --ink:#1F2A24;
+    --brass:#B8901F;
+    --pine:#24433D;
+    --rule:#C7C0AE;
+    --brick:#9C4B3E;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'IBM Plex Mono', monospace;
+    line-height:1.55;
+  }
+  .wrap{max-width:640px;margin:0 auto;padding:0 24px 80px;}
+
+  header{
+    padding:48px 0 28px;
+    border-bottom:3px solid var(--ink);
+  }
+  .kicker{
+    font-size:13px;
+    letter-spacing:.02em;
+    color:var(--brick);
+    margin:0 0 10px;
+  }
+  h1{
+    font-family:'Fraunces', serif;
+    font-weight:700;
+    font-size:clamp(40px,8vw,58px);
+    letter-spacing:-0.01em;
+    margin:0 0 14px;
+    line-height:0.95;
+  }
+  .tagline{
+    font-size:16px;
+    max-width:46ch;
+    color:var(--pine);
+    margin:0;
+  }
+
+  .masthead-meta{
+    display:flex;
+    justify-content:space-between;
+    font-size:12px;
+    color:var(--ink);
+    opacity:.65;
+    margin-top:22px;
+  }
+
+  .intro{
+    padding:32px 0;
+    border-bottom:1px solid var(--rule);
+    font-size:15px;
+  }
+  .intro p{margin:0 0 14px;}
+  .intro p:last-child{margin-bottom:0;}
+
+  .feed{padding-top:8px;}
+  article{
+    padding:32px 0;
+    border-bottom:1px solid var(--rule);
+  }
+  article:last-child{border-bottom:none;}
+
+  .tag-row{
+    display:flex;
+    gap:10px;
+    align-items:baseline;
+    font-size:12px;
+    color:var(--pine);
+    margin-bottom:10px;
+  }
+  .tag{
+    text-transform:none;
+    border:1px solid var(--pine);
+    padding:2px 8px;
+    border-radius:2px;
+  }
+  .headline{
+    font-family:'Fraunces', serif;
+    font-weight:600;
+    font-size:24px;
+    line-height:1.2;
+    margin:0 0 12px;
+  }
+  .source-line{
+    font-size:12px;
+    color:var(--ink);
+    opacity:.6;
+    margin-bottom:16px;
+  }
+  .take{
+    background:#E5DFCF;
+    border-left:3px solid var(--brass);
+    padding:14px 16px;
+    font-size:14px;
+  }
+  .take .label{
+    display:block;
+    font-size:11px;
+    color:var(--brick);
+    margin-bottom:6px;
+  }
+
+  footer{
+    padding-top:40px;
+    font-size:13px;
+    color:var(--pine);
+  }
+  footer .signoff{
+    font-family:'Fraunces', serif;
+    font-style:italic;
+    font-size:17px;
+    color:var(--ink);
+    margin-bottom:6px;
+  }
+
+  @media (prefers-reduced-motion: no-preference){
+    article{transition:none;}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <p class="kicker">Nashville, TN — daily-ish</p>
+    <h1>NashvilleNews</h1>
+    <p class="tagline">The headlines from around town, plus what I actually think about them. No wire-service voice, no filler.</p>
+    <div class="masthead-meta">
+      <span>Vol. 1</span>
+      <span>Written by a guy who lives here</span>
+    </div>
+  </header>
+
+  <div class="intro">
+    <p>This is a new one. I pull together what's actually happening around Nashville — city hall, traffic, local business, music scene — and add my own take underneath each one. If a story's a big deal, I'll tell you why. If it's nothing, I'll tell you that too.</p>
+    <p>Still building this out. Here's a sample of the format.</p>
+  </div>
+
+  <div class="feed">
+
+    <article>
+      <div class="tag-row"><span class="tag">City Hall</span><span>Metro Council</span></div>
+      <h2 class="headline">Metro Council advances new permitting rules for short-term rentals</h2>
+      <div class="source-line">Reported by local outlets this week</div>
+      <div class="take">
+        <span class="label">MY TAKE</span>
+        This has been dragging for two years. Every neighborhood meeting turns into the same fight — owners vs. renters vs. the people who just want quiet streets. Watch the enforcement piece, not the vote. Rules on paper don't mean much if nobody's checking.
+      </div>
+    </article>
+
+    <article>
+      <div class="tag-row"><span class="tag">Traffic</span><span>I-24 / Downtown</span></div>
+      <h2 class="headline">Another round of lane closures planned near the I-24/I-40 split</h2>
+      <div class="source-line">TDOT project update</div>
+      <div class="take">
+        <span class="label">MY TAKE</span>
+        If you drive that stretch during rush hour, just add 20 minutes and stop pretending it'll be fine. Been saying it for years — that interchange needed work before half this town moved here.
+      </div>
+    </article>
+
+    <article>
+      <div class="tag-row"><span class="tag">Music Row</span><span>Local business</span></div>
+      <h2 class="headline">Independent studio space opening on Music Row after year-long renovation</h2>
+      <div class="source-line">Industry announcement</div>
+      <div class="take">
+        <span class="label">MY TAKE</span>
+        Good. We need more rooms built for working musicians, not just tourist-facing venues. Real studio time shouldn't require knowing the right person.
+      </div>
+    </article>
+
+    <article>
+      <div class="tag-row"><span class="tag">Community</span><span>East Nashville</span></div>
+      <h2 class="headline">Neighborhood association pushes back on new mixed-use development</h2>
+      <div class="source-line">Community meeting recap</div>
+      <div class="take">
+        <span class="label">MY TAKE</span>
+        Growth's coming whether anyone likes it or not. The real question is whether it's built by people who actually live here or by whoever's got the deepest pockets this quarter.
+      </div>
+    </article>
+
+  </div>
+
+  <footer>
+    <p class="signoff">More coming soon.</p>
+    <p>NashvilleNews.us — Nashville news, said plainly.</p>
+  </footer>
+
+</div>
+</body>
+</html>
