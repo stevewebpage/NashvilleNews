@@ -148,6 +148,48 @@
     margin-bottom:6px;
   }
 
+  /* ---- Top World News (auto-updated) ---- */
+  .world{
+    margin-top:8px;
+    padding:32px 0 8px;
+    border-top:3px solid var(--ink);
+  }
+  .world h2{
+    font-family:'Fraunces', serif;
+    font-weight:700;
+    font-size:26px;
+    margin:0 0 4px;
+  }
+  .world .world-sub{
+    font-size:12px;
+    color:var(--brick);
+    margin:0 0 8px;
+  }
+  .world-item{
+    padding:18px 0;
+    border-bottom:1px solid var(--rule);
+  }
+  .world-item:last-of-type{border-bottom:none;}
+  .world-item a{
+    font-family:'Fraunces', serif;
+    font-weight:600;
+    font-size:19px;
+    line-height:1.25;
+    color:var(--ink);
+    text-decoration:none;
+  }
+  .world-item a:hover{text-decoration:underline;color:var(--pine);}
+  .world-item p{
+    margin:6px 0 0;
+    font-size:13px;
+    opacity:.8;
+  }
+  .world-credit{
+    font-size:11px;
+    opacity:.6;
+    margin:8px 0 0;
+  }
+
   @media (prefers-reduced-motion: no-preference){
     article{transition:none;}
   }
@@ -223,11 +265,52 @@
 
   </div>
 
+  <section class="world">
+    <h2>Top World News</h2>
+    <p class="world-sub">Updates automatically</p>
+    <div id="world-list">Loading the latest stories…</div>
+    <p class="world-credit" id="world-credit"></p>
+  </section>
+
   <footer>
     <p class="signoff">More coming soon.</p>
     <p>NashvilleNews.us — Nashville news, said plainly.</p>
   </footer>
 
 </div>
+
+<script>
+(function () {
+  var list = document.getElementById('world-list');
+  var credit = document.getElementById('world-credit');
+  fetch('news.json', { cache: 'no-store' })
+    .then(function (r) { return r.json(); })
+    .then(function (data) {
+      if (!data.stories || !data.stories.length) {
+        list.textContent = 'News is updating — check back soon.';
+        return;
+      }
+      list.textContent = '';
+      data.stories.forEach(function (s) {
+        var item = document.createElement('div');
+        item.className = 'world-item';
+        var a = document.createElement('a');
+        a.href = s.link;
+        a.target = '_blank';
+        a.rel = 'noopener';
+        a.textContent = s.title;
+        item.appendChild(a);
+        if (s.summary) {
+          var p = document.createElement('p');
+          p.textContent = s.summary;
+          item.appendChild(p);
+        }
+        list.appendChild(item);
+      });
+      if (data.source) credit.textContent = 'Headlines from ' + data.source + '. Tap a story to read the full article there.';
+    })
+    .catch(function () { list.textContent = 'News is updating — check back soon.'; });
+})();
+</script>
 </body>
 </html>
