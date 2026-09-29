@@ -193,6 +193,30 @@
   @media (prefers-reduced-motion: no-preference){
     article{transition:none;}
   }
+
+  /* ---- Audio message ---- */
+  .voice{
+    margin:28px 0 0;
+    background:#E5DFCF;
+    border-left:3px solid var(--brass);
+    padding:14px 16px;
+    display:none;
+  }
+  .voice.show{display:block;}
+  .voice .label{
+    display:block;
+    font-size:11px;
+    color:var(--brick);
+    margin-bottom:6px;
+  }
+  .voice .voice-title{
+    font-family:'Fraunces', serif;
+    font-weight:600;
+    font-size:20px;
+    line-height:1.25;
+    margin:0 0 10px;
+  }
+  .voice audio{width:100%;}
 </style>
 </head>
 <body>
@@ -215,6 +239,21 @@
       <span>Nashville, TN</span>
     </div>
   </header>
+
+  <div class="voice" id="voice">
+    <span class="label">LISTEN — LATEST FROM STEVE</span>
+    <p class="voice-title">Your headline goes here</p>
+    <audio id="voice-audio" controls preload="metadata"></audio>
+  </div>
+  <script>
+  (function () {
+    var box = document.getElementById('voice');
+    var a = document.getElementById('voice-audio');
+    a.addEventListener('loadedmetadata', function () { box.classList.add('show'); });
+    a.addEventListener('error', function () { box.classList.remove('show'); });
+    a.src = 'message.mp3?v=' + Date.now();
+  })();
+  </script>
 
   <div class="intro">
     <p>This is a new one. I pull together what's actually happening around Nashville — city hall, traffic, local business, music scene — and add my own take underneath each one. If a story's a big deal, I'll tell you why. If it's nothing, I'll tell you that too.</p>
