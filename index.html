@@ -277,56 +277,9 @@
     <p>Still building this out. Here's a sample of the format.</p>
   </div>
 
-  <div class="feed">
-
-    <article>
-      <div class="tag-row"><span class="tag">City Hall</span><span>Metro Council</span></div>
-      <h2 class="headline">Metro Council advances new permitting rules for short-term rentals</h2>
-      <div class="source-line">Reported by local outlets this week</div>
-      <div class="take">
-        <span class="label">MY TAKE</span>
-        This has been dragging for two years. Every neighborhood meeting turns into the same fight — owners vs. renters vs. the people who just want quiet streets. Watch the enforcement piece, not the vote. Rules on paper don't mean much if nobody's checking.
-      </div>
-    </article>
-
-    <article>
-      <div class="tag-row"><span class="tag">Traffic</span><span>I-24 / Downtown</span></div>
-      <h2 class="headline">Another round of lane closures planned near the I-24/I-40 split</h2>
-      <div class="source-line">TDOT project update</div>
-      <div class="take">
-        <span class="label">MY TAKE</span>
-        If you drive that stretch during rush hour, just add 20 minutes and stop pretending it'll be fine. Been saying it for years — that interchange needed work before half this town moved here.
-      </div>
-    </article>
-
-    <article>
-      <div class="tag-row"><span class="tag">Music Row</span><span>Local business</span></div>
-      <h2 class="headline">Independent studio space opening on Music Row after year-long renovation</h2>
-      <div class="source-line">Industry announcement</div>
-      <div class="take">
-        <span class="label">MY TAKE</span>
-        Good. We need more rooms built for working musicians, not just tourist-facing venues. Real studio time shouldn't require knowing the right person.
-      </div>
-    </article>
-
-    <article>
-      <div class="tag-row"><span class="tag">Community</span><span>East Nashville</span></div>
-      <h2 class="headline">Neighborhood association pushes back on new mixed-use development</h2>
-      <div class="source-line">Community meeting recap</div>
-      <div class="take">
-        <span class="label">MY TAKE</span>
-        Growth's coming whether anyone likes it or not. The real question is whether it's built by people who actually live here or by whoever's got the deepest pockets this quarter.
-      </div>
-    </article>
-
+  <div class="feed" id="top-feed">
+    <p style="padding:32px 0;">Loading the latest stories…</p>
   </div>
-
-  <section class="world">
-    <h2>Top U.S. News</h2>
-    <p class="world-sub">Updates automatically</p>
-    <div id="world-list">Loading the latest stories…</div>
-    <p class="world-credit" id="world-credit"></p>
-  </section>
 
   <footer>
     <p class="signoff">More coming soon.</p>
@@ -337,35 +290,45 @@
 
 <script>
 (function () {
-  var list = document.getElementById('world-list');
-  var credit = document.getElementById('world-credit');
+  var feed = document.getElementById('top-feed');
+  function msg(t) { feed.innerHTML = ''; var p = document.createElement('p'); p.style.padding = '32px 0'; p.textContent = t; feed.appendChild(p); }
   fetch('news.json', { cache: 'no-store' })
     .then(function (r) { return r.json(); })
     .then(function (data) {
-      if (!data.stories || !data.stories.length) {
-        list.textContent = 'News is updating — check back soon.';
-        return;
-      }
-      list.textContent = '';
-      data.stories.forEach(function (s) {
-        var item = document.createElement('div');
-        item.className = 'world-item';
+      if (!data.stories || !data.stories.length) { msg('News is updating \u2014 check back soon.'); return; }
+      feed.innerHTML = '';
+      data.stories.slice(0, 4).forEach(function (s) {
+        var art = document.createElement('article');
+
+        var row = document.createElement('div');
+        row.className = 'tag-row';
+        var tag = document.createElement('span');
+        tag.className = 'tag';
+        tag.textContent = 'Top U.S. News';
+        row.appendChild(tag);
+        art.appendChild(row);
+
+        var h = document.createElement('h2');
+        h.className = 'headline';
         var a = document.createElement('a');
         a.href = s.link;
         a.target = '_blank';
         a.rel = 'noopener';
+        a.style.color = 'inherit';
+        a.style.textDecoration = 'none';
         a.textContent = s.title;
-        item.appendChild(a);
-        if (s.summary) {
-          var p = document.createElement('p');
-          p.textContent = s.summary;
-          item.appendChild(p);
-        }
-        list.appendChild(item);
+        h.appendChild(a);
+        art.appendChild(h);
+
+        var src = document.createElement('div');
+        src.className = 'source-line';
+        src.textContent = (data.source ? 'Via ' + data.source : 'Top story') + ' \u2014 tap to read the full article';
+        art.appendChild(src);
+
+        feed.appendChild(art);
       });
-      if (data.source) credit.textContent = 'Headlines from ' + data.source + '. Tap a story to read the full article there.';
     })
-    .catch(function () { list.textContent = 'News is updating — check back soon.'; });
+    .catch(function () { msg('News is updating \u2014 check back soon.'); });
 })();
 </script>
 </body>
