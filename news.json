@@ -1,7 +1,11 @@
 {
   "source": "NPR",
-  "updated": "2026-10-01 18:09 UTC",
+  "updated": "2026-10-01 18:55 UTC",
   "stories": [
+    {
+      "title": "Google launches Project Suncatcher, a step towards AI data centers in space",
+      "link": "https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space"
+    },
     {
       "title": "Cornell Jane Doe's attorney says she told police in 2024: 'I was raped'",
       "link": "https://www.npr.org/2026/10/01/nx-s1-5987703/cornell-fraternity-rape-case-updates"
@@ -13,10 +17,6 @@
     {
       "title": "She can communicate with ghosts. Here's what she learns from the 'Sad Dead'",
       "link": "https://www.npr.org/2026/10/01/nx-s1-5985845/my-sad-dead-review"
-    },
-    {
-      "title": "Sheryl Crow says she's found 'great liberation' in not chasing the next hit",
-      "link": "https://www.npr.org/2026/10/01/nx-s1-5984965/sheryl-crow-pick-you-up"
     }
   ]
 }
