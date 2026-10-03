@@ -1,7 +1,11 @@
 {
   "source": "NPR",
-  "updated": "2026-10-02 21:20 UTC",
+  "updated": "2026-10-03 01:13 UTC",
   "stories": [
+    {
+      "title": "As Trump's proposed arch looms over D.C., protesters pin their hopes on the midterms",
+      "link": "https://www.npr.org/2026/10/02/nx-s1-5985789/trump-arch-protest-veterans-midterms"
+    },
     {
       "title": "Germany's political center fights for relevance after far-right and far-left gains",
       "link": "https://www.npr.org/2026/10/02/g-s1-146108/germany-politics-center-afd-die-linke-cdu-merz"
@@ -13,10 +17,6 @@
     {
       "title": "October 1 ushered in a new era in U.S. foreign aid. What's the plan? Will it work?",
       "link": "https://www.npr.org/2026/10/02/g-s1-146042/foreign-aid-united-states-healthcare-america-first"
-    },
-    {
-      "title": "With a voice as vast as the ocean, Beth Taylor has arrived",
-      "link": "https://www.npr.org/2026/10/02/nx-s1-5936425/beth-taylor-album-review"
     }
   ]
 }
