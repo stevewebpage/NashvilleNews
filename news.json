@@ -1,7 +1,11 @@
 {
   "source": "NPR",
-  "updated": "2026-10-03 12:38 UTC",
+  "updated": "2026-10-03 17:18 UTC",
   "stories": [
+    {
+      "title": "The record-breaking, genre-melting, career-redefining evolution of Miranda Lambert",
+      "link": "https://www.npr.org/2026/10/03/nx-s1-5943132/miranda-lambert-crisco-choosin-texas-interview"
+    },
     {
       "title": "All's fair in love and 'War' — a well-cast, classy-trashy divorce drama",
       "link": "https://www.npr.org/2026/10/03/nx-s1-5983443/war-hbo-divorce-dominic-west-sienna-miller"
@@ -13,10 +17,6 @@
     {
       "title": "Theaster Gates bets on fine china",
       "link": "https://www.npr.org/2026/10/03/nx-s1-5977069/theaster-gates-pickard-china"
-    },
-    {
-      "title": "The Supreme Court faces another term jam-packed with controversy",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5986341/supreme-court-term-religion-guns-environment-immigration"
     }
   ]
 }
