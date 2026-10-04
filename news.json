@@ -1,7 +1,11 @@
 {
   "source": "NPR",
-  "updated": "2026-10-04 00:41 UTC",
+  "updated": "2026-10-04 06:59 UTC",
   "stories": [
+    {
+      "title": "Coast Guard finds debris from medical plane carrying 6 people",
+      "link": "https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts"
+    },
     {
       "title": "The record-breaking, genre-melting, career-redefining evolution of Miranda Lambert",
       "link": "https://www.npr.org/2026/10/03/nx-s1-5943132/miranda-lambert-crisco-choosin-texas-interview"
@@ -13,10 +17,6 @@
     {
       "title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
       "link": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure"
-    },
-    {
-      "title": "Theaster Gates bets on fine china",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5977069/theaster-gates-pickard-china"
     }
   ]
 }
