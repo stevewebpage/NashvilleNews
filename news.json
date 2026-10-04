@@ -1,7 +1,11 @@
 {
   "source": "NPR",
-  "updated": "2026-10-04 17:39 UTC",
+  "updated": "2026-10-04 21:33 UTC",
   "stories": [
+    {
+      "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump"
+    },
     {
       "title": "Cornell president calls gang rape allegations 'deeply disturbing'",
       "link": "https://www.npr.org/2026/10/04/nx-s1-5990789/cornell-president-calls-gang-rape-allegations-deeply-disturbing"
@@ -13,10 +17,6 @@
     {
       "title": "How the Cornell case is affecting women who have experienced sexual assault",
       "link": "https://www.npr.org/2026/10/04/nx-s1-5990232/how-the-cornell-case-is-affecting-women-who-have-experienced-sexual-assault"
-    },
-    {
-      "title": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
-      "link": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths"
     }
   ]
 }
