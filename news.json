@@ -1,7 +1,15 @@
 {
   "source": "NPR",
-  "updated": "2026-10-04 06:59 UTC",
+  "updated": "2026-10-04 13:15 UTC",
   "stories": [
+    {
+      "title": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths"
+    },
+    {
+      "title": "Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church"
+    },
     {
       "title": "Coast Guard finds debris from medical plane carrying 6 people",
       "link": "https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts"
@@ -9,14 +17,6 @@
     {
       "title": "The record-breaking, genre-melting, career-redefining evolution of Miranda Lambert",
       "link": "https://www.npr.org/2026/10/03/nx-s1-5943132/miranda-lambert-crisco-choosin-texas-interview"
-    },
-    {
-      "title": "All's fair in love and 'War' — a well-cast, classy-trashy divorce drama",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5983443/war-hbo-divorce-dominic-west-sienna-miller"
-    },
-    {
-      "title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure"
     }
   ]
 }
