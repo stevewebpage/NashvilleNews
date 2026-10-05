@@ -1,7 +1,11 @@
 {
   "source": "NPR",
-  "updated": "2026-10-04 21:33 UTC",
+  "updated": "2026-10-05 00:59 UTC",
   "stories": [
+    {
+      "title": "Brazil's presidential race heads to Lula–Bolsonaro run-off as right gains ground",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro"
+    },
     {
       "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
       "link": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump"
@@ -13,10 +17,6 @@
     {
       "title": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan",
       "link": "https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa"
-    },
-    {
-      "title": "How the Cornell case is affecting women who have experienced sexual assault",
-      "link": "https://www.npr.org/2026/10/04/nx-s1-5990232/how-the-cornell-case-is-affecting-women-who-have-experienced-sexual-assault"
     }
   ]
 }
