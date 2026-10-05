@@ -1,7 +1,11 @@
 {
   "source": "NPR",
-  "updated": "2026-10-05 16:06 UTC",
+  "updated": "2026-10-05 22:42 UTC",
   "stories": [
+    {
+      "title": "Is our fate pre-destined? A new 'East of Eden' adaptation asks again",
+      "link": "https://www.npr.org/2026/10/05/nx-s1-5991642/eden-adaption-netflix-review"
+    },
     {
       "title": "Dennis Hastert, longtime Republican House speaker who went to prison, dies at age 84",
       "link": "https://www.npr.org/2026/10/05/g-s1-146452/dennis-hastert-republican-house-speaker-dies-obit"
@@ -13,10 +17,6 @@
     {
       "title": "Drones buzz overhead, troops hunker underground in Ukraine's hellish kill zone",
       "link": "https://www.npr.org/2026/10/05/nx-s1-5925803/drones-buzz-overhead-troops-hunker-underground-in-ukraines-hellish-kill-zone"
-    },
-    {
-      "title": "FBI arrests a woman accused of spying on Taiwan leader's family for China",
-      "link": "https://www.npr.org/2026/10/05/g-s1-146410/fbi-arrests-a-woman-accused-of-spying-on-taiwan-leaders-family-for-china"
     }
   ]
 }
