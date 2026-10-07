@@ -1,7 +1,11 @@
 {
   "source": "NPR",
-  "updated": "2026-10-06 21:42 UTC",
+  "updated": "2026-10-07 01:36 UTC",
   "stories": [
+    {
+      "title": "Actress Eva Marie Saint, who won an Oscar for 'On the Waterfront,' dies at 102",
+      "link": "https://www.npr.org/2026/10/06/462030457/eva-marie-saint-on-the-waterfront-dead-102"
+    },
     {
       "title": "Cornell names former acting U.S. attorney general to review rape case",
       "link": "https://www.npr.org/2026/10/06/nx-s1-5992799/cornell-yates-rape-case-updates-review"
@@ -13,10 +17,6 @@
     {
       "title": "'Here I am, my full, authentic self': Murray Hill charts his own course in 'Showbiz!'",
       "link": "https://www.npr.org/2026/10/06/nx-s1-5991916/murray-hill-somebody-somewhere-showbiz"
-    },
-    {
-      "title": "Here are the finalists for the 2026 National Book Awards",
-      "link": "https://www.npr.org/2026/10/06/nx-s1-5991463/2026-national-book-award-shortlist-finalists"
     }
   ]
 }
