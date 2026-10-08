@@ -1,336 +1,620 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-D0JM3ZMR7L"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-D0JM3ZMR7L');
-</script>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>NashvilleNews.us  - Local news, straight talk</title>
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-D0JM3ZMR7L"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-D0JM3ZMR7L');
+  </script>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- SEO -->
+  <title>NashvilleNews.us | Nashville News &amp; Tennessee News</title>
+
+  <meta
+    name="description"
+    content="NashvilleNews.us delivers Nashville news and Tennessee news with straight talk, evidence, accountability and a Nashville perspective."
+  >
+
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <meta name="author" content="NashvilleNews.us">
+  <link rel="canonical" href="https://nashvillenews.us/">
+
+  <!-- OPEN GRAPH / FACEBOOK -->
   <meta property="og:type" content="website">
-<meta property="og:url" content="https://nashvillenews.us/">
-<meta property="og:title" content="NashvilleNews.us — Local news, straight talk">
-<meta property="og:description" content="Steve's take on the day's news, straight from the anchor desk.">
-<meta property="og:image" content="https://nashvillenews.us/anchor-desk.png">
-<meta property="og:image:width" content="1536">
-<meta property="og:image:height" content="1024">
-<meta name="twitter:card" content="summary_large_image">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
-<style>
-  :root{
-    --paper:#EFEBE2;
-    --ink:#1F2A24;
-    --brass:#B8901F;
-    --pine:#24433D;
-    --rule:#C7C0AE;
-    --brick:#9C4B3E;
-  }
-  *{box-sizing:border-box;}
-  body{
-    margin:0;
-    background:var(--paper);
-    color:var(--ink);
-    font-family:'IBM Plex Mono', monospace;
-    line-height:1.55;
-  }
-  .wrap{max-width:640px;margin:0 auto;padding:0 24px 80px;}
+  <meta property="og:site_name" content="NashvilleNews.us">
+  <meta property="og:url" content="https://nashvillenews.us/">
+  <meta property="og:title" content="NashvilleNews.us | Nashville News &amp; Tennessee News">
+  <meta property="og:description" content="Nashville news and Tennessee news — straight from the NashvilleNews anchor desk.">
+  <meta property="og:image" content="https://nashvillenews.us/anchor-desk.png">
+  <meta property="og:image:width" content="1536">
+  <meta property="og:image:height" content="1024">
+  <meta property="og:image:alt" content="NashvilleNews.us anchor desk with the Nashville, Tennessee skyline">
 
-  header{
-    padding:48px 0 28px;
-    border-bottom:3px solid var(--ink);
-  }
-  .kicker{
-    font-size:13px;
-    letter-spacing:.02em;
-    color:var(--brick);
-    margin:0 0 10px;
-  }
-  h1{
-    font-family:'Fraunces', serif;
-    font-weight:700;
-    font-size:clamp(40px,8vw,58px);
-    letter-spacing:-0.01em;
-    margin:0 0 14px;
-    line-height:0.95;
-  }
-  .tagline{
-    font-size:16px;
-    max-width:46ch;
-    color:var(--pine);
-    margin:0;
-  }
+  <!-- X / TWITTER -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="NashvilleNews.us | Nashville News &amp; Tennessee News">
+  <meta name="twitter:description" content="Nashville news and Tennessee news — straight from the NashvilleNews anchor desk.">
+  <meta name="twitter:image" content="https://nashvillenews.us/anchor-desk.png">
+  <meta name="twitter:image:alt" content="NashvilleNews.us anchor desk with the Nashville, Tennessee skyline">
 
-  .masthead-meta{
-    display:flex;
-    justify-content:space-between;
-    font-size:12px;
-    color:var(--ink);
-    opacity:.65;
-    margin-top:22px;
+  <!-- STRUCTURED DATA -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "NewsMediaOrganization",
+    "name": "NashvilleNews.us",
+    "url": "https://nashvillenews.us/",
+    "logo": "https://nashvillenews.us/anchor-desk.png",
+    "image": "https://nashvillenews.us/anchor-desk.png",
+    "description": "Nashville news and Tennessee news with straight talk, evidence and accountability.",
+    "areaServed": [
+      {
+        "@type": "City",
+        "name": "Nashville"
+      },
+      {
+        "@type": "State",
+        "name": "Tennessee"
+      }
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Nashville",
+      "addressRegion": "TN",
+      "addressCountry": "US"
+    }
   }
+  </script>
 
-  .hero-photo{
-    margin:28px 0 0;
-    border:1px solid var(--ink);
-    background:#000;
-  }
-  .hero-photo img{
-    display:block;
-    width:100%;
-    height:auto;
-  }
-  .hero-caption{
-    display:flex;
-    justify-content:space-between;
-    font-size:11px;
-    letter-spacing:.02em;
-    color:var(--ink);
-    opacity:.6;
-    padding:8px 2px 0;
-  }
+  <!-- FONTS -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
-  .intro{
-    padding:32px 0;
-    border-bottom:1px solid var(--rule);
-    font-size:15px;
-  }
-  .intro p{margin:0 0 14px;}
-  .intro p:last-child{margin-bottom:0;}
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=IBM+Plex+Mono:wght@400;500&display=swap"
+    rel="stylesheet"
+  >
 
-  .feed{padding-top:8px;}
-  article{
-    padding:32px 0;
-    border-bottom:1px solid var(--rule);
-  }
-  article:last-child{border-bottom:none;}
+  <style>
+    :root{
+      --paper:#EFEBE2;
+      --ink:#1F2A24;
+      --brass:#B8901F;
+      --pine:#24433D;
+      --rule:#C7C0AE;
+      --brick:#9C4B3E;
+    }
 
-  .tag-row{
-    display:flex;
-    gap:10px;
-    align-items:baseline;
-    font-size:12px;
-    color:var(--pine);
-    margin-bottom:10px;
-  }
-  .tag{
-    text-transform:none;
-    border:1px solid var(--pine);
-    padding:2px 8px;
-    border-radius:2px;
-  }
-  .headline{
-    font-family:'Fraunces', serif;
-    font-weight:600;
-    font-size:24px;
-    line-height:1.2;
-    margin:0 0 12px;
-  }
-  .source-line{
-    font-size:12px;
-    color:var(--ink);
-    opacity:.6;
-    margin-bottom:16px;
-  }
-  .take{
-    background:#E5DFCF;
-    border-left:3px solid var(--brass);
-    padding:14px 16px;
-    font-size:14px;
-  }
-  .take .label{
-    display:block;
-    font-size:11px;
-    color:var(--brick);
-    margin-bottom:6px;
-  }
+    *{box-sizing:border-box;}
 
-  footer{
-    padding-top:40px;
-    font-size:13px;
-    color:var(--pine);
-  }
-  footer .signoff{
-    font-family:'Fraunces', serif;
-    font-style:italic;
-    font-size:17px;
-    color:var(--ink);
-    margin-bottom:6px;
-  }
+    body{
+      margin:0;
+      background:var(--paper);
+      color:var(--ink);
+      font-family:'IBM Plex Mono', monospace;
+      line-height:1.55;
+    }
 
-  /* ---- Top World News (auto-updated) ---- */
-  .world{
-    margin-top:8px;
-    padding:32px 0 8px;
-    border-top:3px solid var(--ink);
-  }
-  .world h2{
-    font-family:'Fraunces', serif;
-    font-weight:700;
-    font-size:26px;
-    margin:0 0 4px;
-  }
-  .world .world-sub{
-    font-size:12px;
-    color:var(--brick);
-    margin:0 0 8px;
-  }
-  .world-item{
-    padding:18px 0;
-    border-bottom:1px solid var(--rule);
-  }
-  .world-item:last-of-type{border-bottom:none;}
-  .world-item a{
-    font-family:'Fraunces', serif;
-    font-weight:600;
-    font-size:19px;
-    line-height:1.25;
-    color:var(--ink);
-    text-decoration:none;
-  }
-  .world-item a:hover{text-decoration:underline;color:var(--pine);}
-  .world-item p{
-    margin:6px 0 0;
-    font-size:13px;
-    opacity:.8;
-  }
-  .world-credit{
-    font-size:11px;
-    opacity:.6;
-    margin:8px 0 0;
-  }
+    .wrap{
+      max-width:640px;
+      margin:0 auto;
+      padding:0 24px 80px;
+    }
 
-  @media (prefers-reduced-motion: no-preference){
-    article{transition:none;}
-  }
+    header{
+      padding:48px 0 28px;
+      border-bottom:3px solid var(--ink);
+    }
 
-  /* ---- Audio message ---- */
-  .voice{
-    margin:28px 0 0;
-    background:#E5DFCF;
-    border-left:3px solid var(--brass);
-    padding:14px 16px;
-    display:none;
-  }
-  .voice.show{display:block;}
-  .voice .label{
-    display:block;
-    font-size:11px;
-    color:var(--brick);
-    margin-bottom:6px;
-  }
-  .voice .voice-title{
-    font-family:'Fraunces', serif;
-    font-weight:600;
-    font-size:20px;
-    line-height:1.25;
-    margin:0 0 10px;
-  }
-  .voice audio{width:100%;}
-</style>
+    .kicker{
+      font-size:13px;
+      letter-spacing:.02em;
+      color:var(--brick);
+      margin:0 0 10px;
+    }
+
+    h1{
+      font-family:'Fraunces', serif;
+      font-weight:700;
+      font-size:clamp(40px,8vw,58px);
+      letter-spacing:-0.01em;
+      margin:0 0 14px;
+      line-height:0.95;
+    }
+
+    .tagline{
+      font-size:16px;
+      max-width:46ch;
+      color:var(--pine);
+      margin:0;
+    }
+
+    .masthead-meta{
+      display:flex;
+      justify-content:space-between;
+      font-size:12px;
+      color:var(--ink);
+      opacity:.65;
+      margin-top:22px;
+    }
+
+    .hero-photo{
+      margin:28px 0 0;
+      border:1px solid var(--ink);
+      background:#000;
+    }
+
+    .hero-photo img{
+      display:block;
+      width:100%;
+      height:auto;
+    }
+
+    .hero-caption{
+      display:flex;
+      justify-content:space-between;
+      font-size:11px;
+      letter-spacing:.02em;
+      color:var(--ink);
+      opacity:.6;
+      padding:8px 2px 0;
+    }
+
+    .intro{
+      padding:32px 0;
+      border-bottom:1px solid var(--rule);
+      font-size:15px;
+    }
+
+    .intro p{
+      margin:0 0 14px;
+    }
+
+    .intro p:last-child{
+      margin-bottom:0;
+    }
+
+    .feed{
+      padding-top:8px;
+    }
+
+    article{
+      padding:32px 0;
+      border-bottom:1px solid var(--rule);
+    }
+
+    article:last-child{
+      border-bottom:none;
+    }
+
+    .tag-row{
+      display:flex;
+      gap:10px;
+      align-items:baseline;
+      font-size:12px;
+      color:var(--pine);
+      margin-bottom:10px;
+    }
+
+    .tag{
+      text-transform:none;
+      border:1px solid var(--pine);
+      padding:2px 8px;
+      border-radius:2px;
+    }
+
+    .headline{
+      font-family:'Fraunces', serif;
+      font-weight:600;
+      font-size:24px;
+      line-height:1.2;
+      margin:0 0 12px;
+    }
+
+    .headline a{
+      color:inherit;
+      text-decoration:none;
+    }
+
+    .headline a:hover{
+      text-decoration:underline;
+    }
+
+    .source-line{
+      font-size:12px;
+      color:var(--ink);
+      opacity:.6;
+      margin-bottom:16px;
+    }
+
+    .take{
+      background:#E5DFCF;
+      border-left:3px solid var(--brass);
+      padding:14px 16px;
+      font-size:14px;
+    }
+
+    .take .label{
+      display:block;
+      font-size:11px;
+      color:var(--brick);
+      margin-bottom:6px;
+    }
+
+    footer{
+      padding-top:40px;
+      font-size:13px;
+      color:var(--pine);
+    }
+
+    footer .signoff{
+      font-family:'Fraunces', serif;
+      font-style:italic;
+      font-size:17px;
+      color:var(--ink);
+      margin-bottom:6px;
+    }
+
+    /* ---- Top World News ---- */
+
+    .world{
+      margin-top:8px;
+      padding:32px 0 8px;
+      border-top:3px solid var(--ink);
+    }
+
+    .world h2{
+      font-family:'Fraunces', serif;
+      font-weight:700;
+      font-size:26px;
+      margin:0 0 4px;
+    }
+
+    .world .world-sub{
+      font-size:12px;
+      color:var(--brick);
+      margin:0 0 8px;
+    }
+
+    .world-item{
+      padding:18px 0;
+      border-bottom:1px solid var(--rule);
+    }
+
+    .world-item:last-of-type{
+      border-bottom:none;
+    }
+
+    .world-item a{
+      font-family:'Fraunces', serif;
+      font-weight:600;
+      font-size:19px;
+      line-height:1.25;
+      color:var(--ink);
+      text-decoration:none;
+    }
+
+    .world-item a:hover{
+      text-decoration:underline;
+      color:var(--pine);
+    }
+
+    .world-item p{
+      margin:6px 0 0;
+      font-size:13px;
+      opacity:.8;
+    }
+
+    .world-credit{
+      font-size:11px;
+      opacity:.6;
+      margin:8px 0 0;
+    }
+
+    /* ---- Audio ---- */
+
+    .voice{
+      margin:28px 0 0;
+      background:#E5DFCF;
+      border-left:3px solid var(--brass);
+      padding:14px 16px;
+      display:none;
+    }
+
+    .voice.show{
+      display:block;
+    }
+
+    .voice .label{
+      display:block;
+      font-size:11px;
+      color:var(--brick);
+      margin-bottom:6px;
+    }
+
+    .voice .voice-title{
+      font-family:'Fraunces', serif;
+      font-weight:600;
+      font-size:20px;
+      line-height:1.25;
+      margin:0 0 10px;
+    }
+
+    .voice audio{
+      width:100%;
+    }
+
+    @media (prefers-reduced-motion: no-preference){
+      article{
+        transition:none;
+      }
+    }
+  </style>
+
 </head>
+
 <body>
+
 <div class="wrap">
 
   <header>
+
     <p class="kicker">Nashville, TN — daily-ish</p>
+
     <h1>NashvilleNews</h1>
-    <p class="tagline"><span style="display:block;">What happened?</span><span style="display:block;">How do we know?</span><span style="display:block;">Who has the power?</span><span style="display:block;">Who pays?</span><span style="display:block;">Who benefits?</span><span style="display:block;">And who's accountable?</span></p>
+
+    <p class="tagline">
+      <span style="display:block;">What happened?</span>
+      <span style="display:block;">How do we know?</span>
+      <span style="display:block;">Who has the power?</span>
+      <span style="display:block;">Who pays?</span>
+      <span style="display:block;">Who benefits?</span>
+      <span style="display:block;">And who's accountable?</span>
+    </p>
+
     <div class="masthead-meta">
       <span>Vol. 1</span>
       <span>Written by a guy who lives here</span>
     </div>
 
     <div class="hero-photo">
-      <img src="anchor-desk.png" alt="Steve at the NashvilleNews anchor desk, downtown Nashville skyline at sunset">
+
+      <img
+        src="anchor-desk.png"
+        alt="NashvilleNews.us anchor desk with the Nashville, Tennessee skyline"
+        width="1536"
+        height="1024"
+      >
+
     </div>
+
     <div class="hero-caption">
       <span>Live from the desk</span>
       <span>Nashville, TN</span>
     </div>
+
   </header>
 
+
+  <!-- AUDIO -->
+
   <div class="voice" id="voice">
+
     <span class="label">LISTEN — LATEST FROM STEVE</span>
-    <p class="voice-title">STEVE BICKHAM'S PRIORITY HEADLINE AUDIO</p>
-    <audio id="voice-audio" controls preload="metadata"></audio>
+
+    <p class="voice-title">
+      STEVE BICKHAM'S PRIORITY HEADLINE AUDIO
+    </p>
+
+    <audio
+      id="voice-audio"
+      controls
+      preload="metadata"
+    ></audio>
+
   </div>
+
+
   <script>
   (function () {
+
     var box = document.getElementById('voice');
     var a = document.getElementById('voice-audio');
-    a.addEventListener('loadedmetadata', function () { box.classList.add('show'); });
-    a.addEventListener('error', function () { box.classList.remove('show'); });
+
+    a.addEventListener('loadedmetadata', function () {
+      box.classList.add('show');
+    });
+
+    a.addEventListener('error', function () {
+      box.classList.remove('show');
+    });
+
     a.src = 'message.mp3?v=' + Date.now();
+
   })();
   </script>
 
-<div class="intro">
-    <p>We don't ask you to trust us. We ask questions, follow the evidence, and show you what we find.</p>
-    <p>Power affects all of us. So let's ask the questions that matter — and follow the answers wherever they lead.</p>
-    <p><em>I could be wrong. Check it.</em></p>
-</div>
 
-  <div class="feed" id="top-feed">
-    <p style="padding:32px 0;">Loading the latest stories…</p>
+  <!-- INTRO -->
+
+  <div class="intro">
+
+    <p>
+      NashvilleNews.us brings Nashville news and Tennessee news
+      together in one place.
+    </p>
+
+    <p>
+      We don't ask you to trust us. We ask questions, follow the
+      evidence, and show you what we find.
+    </p>
+
+    <p>
+      Power affects all of us. So let's ask the questions that matter
+      — and follow the answers wherever they lead.
+    </p>
+
+    <p>
+      <em>I could be wrong. Check it.</em>
+    </p>
+
   </div>
 
+
+  <!-- LATEST STORIES -->
+
+  <main
+    class="feed"
+    id="top-feed"
+    aria-label="Latest NashvilleNews.us stories"
+  >
+
+    <p style="padding:32px 0;">
+      Loading the latest Nashville news…
+    </p>
+
+  </main>
+
+
+  <!-- FOOTER -->
+
   <footer>
-    <p class="signoff">More coming soon.</p>
-    <p>NashvilleNews.us — Nashville news, said plainly.</p>
+
+    <p class="signoff">
+      More coming soon.
+    </p>
+
+    <p>
+      NashvilleNews.us — Nashville news, said plainly.
+    </p>
+
+    <p>
+      Nashville, Tennessee news from the NashvilleNews anchor desk.
+    </p>
+
   </footer>
 
 </div>
 
+
+<!-- LOAD CURRENT STORIES -->
+
 <script>
 (function () {
+
   var feed = document.getElementById('top-feed');
-  function msg(t) { feed.innerHTML = ''; var p = document.createElement('p'); p.style.padding = '32px 0'; p.textContent = t; feed.appendChild(p); }
+
+  function msg(t) {
+
+    feed.innerHTML = '';
+
+    var p = document.createElement('p');
+
+    p.style.padding = '32px 0';
+
+    p.textContent = t;
+
+    feed.appendChild(p);
+  }
+
   fetch('news.json', { cache: 'no-store' })
-    .then(function (r) { return r.json(); })
+
+    .then(function (r) {
+
+      if (!r.ok) {
+        throw new Error('News feed unavailable');
+      }
+
+      return r.json();
+
+    })
+
     .then(function (data) {
-      if (!data.stories || !data.stories.length) { msg('News is updating \u2014 check back soon.'); return; }
+
+      if (!data.stories || !data.stories.length) {
+
+        msg('News is updating — check back soon.');
+
+        return;
+      }
+
       feed.innerHTML = '';
+
       data.stories.slice(0, 4).forEach(function (s) {
+
         var art = document.createElement('article');
 
+        /* Category */
+
         var row = document.createElement('div');
+
         row.className = 'tag-row';
+
         var tag = document.createElement('span');
+
         tag.className = 'tag';
+
         tag.textContent = 'Top U.S. News';
+
         row.appendChild(tag);
+
         art.appendChild(row);
 
+
+        /* Headline */
+
         var h = document.createElement('h2');
+
         h.className = 'headline';
+
         var a = document.createElement('a');
+
         a.href = s.link;
+
         a.target = '_blank';
+
         a.rel = 'noopener';
-        a.style.color = 'inherit';
-        a.style.textDecoration = 'none';
+
         a.textContent = s.title;
+
         h.appendChild(a);
+
         art.appendChild(h);
 
+
+        /* Source */
+
         var src = document.createElement('div');
+
         src.className = 'source-line';
-        src.textContent = (data.source ? 'Via ' + data.source : 'Top story') + ' \u2014 tap to read the full article';
+
+        src.textContent =
+          (data.source ? 'Via ' + data.source : 'Top story') +
+          ' — tap to read the full article';
+
         art.appendChild(src);
 
         feed.appendChild(art);
+
       });
+
     })
-    .catch(function () { msg('News is updating \u2014 check back soon.'); });
+
+    .catch(function () {
+
+      msg('News is updating — check back soon.');
+
+    });
+
 })();
 </script>
+
 </body>
 </html>
