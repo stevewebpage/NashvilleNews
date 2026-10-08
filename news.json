@@ -1,22 +1,22 @@
 {
   "source": "NPR",
-  "updated": "2026-10-08 02:00 UTC",
+  "updated": "2026-10-08 09:04 UTC",
   "stories": [
+    {
+      "title": "Trump proposes Camp David-style presidential retreat at his private Florida golf club",
+      "link": "https://www.npr.org/2026/10/08/g-s1-147101/trump-presidential-retreat-golf-club"
+    },
+    {
+      "title": "Maricarmen, the 87-year-old woman whose eviction shook Spain, has died",
+      "link": "https://www.npr.org/2026/10/08/nx-s1-5994868/maricarmen-eviction-spain-dies"
+    },
+    {
+      "title": "Isaias strengthens into the first hurricane of the Atlantic season",
+      "link": "https://www.npr.org/2026/10/08/g-s1-147095/weather-hurricane-season"
+    },
     {
       "title": "What is the pneumonic plague?",
       "link": "https://www.npr.org/2026/10/07/g-s1-146952/pneumonic-plague-russia-siberia-lab-death"
-    },
-    {
-      "title": "A childhood bike crash led to a stranger's gift — and a hidden message",
-      "link": "https://www.npr.org/2026/10/07/nx-s1-5982754/unsung-hero-childhood-bike-crash-origami"
-    },
-    {
-      "title": "This surprising mammal fossil is giving scientists something to chew on",
-      "link": "https://www.npr.org/2026/10/07/nx-s1-5991361/fossil-mammal-platypus-chew-swallow-suckle-earliest"
-    },
-    {
-      "title": "Judge orders that Christa Pike execution evidence be preserved",
-      "link": "https://www.npr.org/2026/10/07/nx-s1-5993628/judge-orders-that-christa-pike-execution-evidence-be-preserved"
     }
   ]
 }
