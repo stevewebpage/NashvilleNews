@@ -1,7 +1,11 @@
 {
   "source": "NPR",
-  "updated": "2026-10-07 22:02 UTC",
+  "updated": "2026-10-08 02:00 UTC",
   "stories": [
+    {
+      "title": "What is the pneumonic plague?",
+      "link": "https://www.npr.org/2026/10/07/g-s1-146952/pneumonic-plague-russia-siberia-lab-death"
+    },
     {
       "title": "A childhood bike crash led to a stranger's gift — and a hidden message",
       "link": "https://www.npr.org/2026/10/07/nx-s1-5982754/unsung-hero-childhood-bike-crash-origami"
@@ -11,12 +15,8 @@
       "link": "https://www.npr.org/2026/10/07/nx-s1-5991361/fossil-mammal-platypus-chew-swallow-suckle-earliest"
     },
     {
-      "title": "Trump approved the military's 1st firing squad execution since WWII. Why now?",
-      "link": "https://www.npr.org/2026/10/07/nx-s1-5993539/firing-squad-execution-nidal-hasan-fort-hood"
-    },
-    {
-      "title": "Why Trump just loosened the rules on 'dyed diesel' — normally a farm fuel",
-      "link": "https://www.npr.org/2026/10/07/nx-s1-5992963/dyed-diesel-fuel-price-farmers-trucks"
+      "title": "Judge orders that Christa Pike execution evidence be preserved",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5993628/judge-orders-that-christa-pike-execution-evidence-be-preserved"
     }
   ]
 }
