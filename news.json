@@ -1,7 +1,15 @@
 {
   "source": "NPR",
-  "updated": "2026-10-08 16:33 UTC",
+  "updated": "2026-10-08 22:08 UTC",
   "stories": [
+    {
+      "title": "Discursive Verses: Vic Mensa and the rise of a rap manosphere counterculture",
+      "link": "https://www.npr.org/2026/10/08/nx-s1-5995128/the-week-in-hip-hop-vic-mensa-show-grits-and-eggs-pod-manosphere-counterculture"
+    },
+    {
+      "title": "Suicide is up among Black Americans. We need to talk about it.",
+      "link": "https://www.npr.org/2026/10/08/nx-s1-5963905/suicide-black-americans-discussion-analysis"
+    },
     {
       "title": "The long-deployed USS Lincoln is returning home to San Diego",
       "link": "https://www.npr.org/2026/10/08/g-s1-147195/uss-lincoln-returning-san-diego"
@@ -9,14 +17,6 @@
     {
       "title": "New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture",
       "link": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges"
-    },
-    {
-      "title": "4 people on NASA's Crew-12 mission return to Earth after 8 months in space",
-      "link": "https://www.npr.org/2026/10/08/nx-s1-5992845/nasa-spacex-crew-12-international-space-station-iss-splashdown"
-    },
-    {
-      "title": "South Korea to recall its ambassador to Ukraine over North Korean POW dispute",
-      "link": "https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute"
     }
   ]
 }
