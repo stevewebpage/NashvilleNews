@@ -1,7 +1,11 @@
 {
   "source": "NPR",
-  "updated": "2026-10-08 22:08 UTC",
+  "updated": "2026-10-09 02:14 UTC",
   "stories": [
+    {
+      "title": "The long-deployed USS Lincoln returns home to San Diego Bay",
+      "link": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay"
+    },
     {
       "title": "Discursive Verses: Vic Mensa and the rise of a rap manosphere counterculture",
       "link": "https://www.npr.org/2026/10/08/nx-s1-5995128/the-week-in-hip-hop-vic-mensa-show-grits-and-eggs-pod-manosphere-counterculture"
@@ -13,10 +17,6 @@
     {
       "title": "The long-deployed USS Lincoln is returning home to San Diego",
       "link": "https://www.npr.org/2026/10/08/g-s1-147195/uss-lincoln-returning-san-diego"
-    },
-    {
-      "title": "New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture",
-      "link": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges"
     }
   ]
 }
