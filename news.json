@@ -1,22 +1,22 @@
 {
   "source": "NPR",
-  "updated": "2026-10-10 15:25 UTC",
+  "updated": "2026-10-10 20:06 UTC",
   "stories": [
+    {
+      "title": "The Kennedy Center names new artistic director, amid concerns",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5996934/kennedy-center-rick-canny-new-artistic-director"
+    },
+    {
+      "title": "At least 2 deaths attributed to Isaias after hurricane bashes Florida and Alabama",
+      "link": "https://www.npr.org/2026/10/10/g-s1-147632/at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama"
+    },
     {
       "title": "Ongoing lawsuits allege GLP-1s can cause serious harm. But we don't know how often",
       "link": "https://www.npr.org/2026/10/10/nx-s1-5996652/glp1-fda-naion-blind-lawsuit-ozempic"
     },
     {
-      "title": "A year of ceasefire in Gaza through the lens of NPR's reporter",
-      "link": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life"
-    },
-    {
       "title": "After losing ground with Latino voters, Democrats are turning to influencers for help",
       "link": "https://www.npr.org/2026/10/10/nx-s1-5991897/democrats-latino-voters-influencers-bold-pac"
-    },
-    {
-      "title": "16 cozy activities to add to your fall bucket list",
-      "link": "https://www.npr.org/2026/10/10/nx-s1-5993688/16-cozy-activities-to-add-to-your-fall-bucket-list"
     }
   ]
 }
