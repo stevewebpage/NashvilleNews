@@ -1,7 +1,11 @@
 {
   "source": "NPR",
-  "updated": "2026-10-10 20:06 UTC",
+  "updated": "2026-10-10 23:36 UTC",
   "stories": [
+    {
+      "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack"
+    },
     {
       "title": "The Kennedy Center names new artistic director, amid concerns",
       "link": "https://www.npr.org/2026/10/10/nx-s1-5996934/kennedy-center-rick-canny-new-artistic-director"
@@ -13,10 +17,6 @@
     {
       "title": "Ongoing lawsuits allege GLP-1s can cause serious harm. But we don't know how often",
       "link": "https://www.npr.org/2026/10/10/nx-s1-5996652/glp1-fda-naion-blind-lawsuit-ozempic"
-    },
-    {
-      "title": "After losing ground with Latino voters, Democrats are turning to influencers for help",
-      "link": "https://www.npr.org/2026/10/10/nx-s1-5991897/democrats-latino-voters-influencers-bold-pac"
     }
   ]
 }
