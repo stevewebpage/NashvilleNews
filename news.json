@@ -1,7 +1,11 @@
 {
   "source": "NPR",
-  "updated": "2026-10-09 21:43 UTC",
+  "updated": "2026-10-10 01:46 UTC",
   "stories": [
+    {
+      "title": "Kalshi taps former FBI agent to fight against money laundering",
+      "link": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering"
+    },
     {
       "title": "Fired OpenAI employees question the company's commitment to safety",
       "link": "https://www.npr.org/2026/10/09/nx-s1-5996890/openai-safety-firings"
@@ -13,10 +17,6 @@
     {
       "title": "The U.S. last held a public execution in the 1930s. The Pentagon wants to change that",
       "link": "https://www.npr.org/2026/10/09/nx-s1-5996529/firing-squad-livestream-execution-fort-hood-shooter"
-    },
-    {
-      "title": "U.S. working to reverse an Egyptian man's third-country deportation to Africa",
-      "link": "https://www.npr.org/2026/10/09/g-s1-147476/trump-third-country-deportation-africa-reverse"
     }
   ]
 }
