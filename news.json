@@ -1,7 +1,15 @@
 {
   "source": "NPR",
-  "updated": "2026-10-12 19:50 UTC",
+  "updated": "2026-10-13 02:03 UTC",
   "stories": [
+    {
+      "title": "Government spent $10 million on pro-Trump ads after president said super PAC would fund",
+      "link": "https://www.npr.org/2026/10/12/nx-s1-5998976/pro-trump-ads-taxpayer-funds-federal-judge"
+    },
+    {
+      "title": "Actor Selma Blair removed from plane by police after altercation",
+      "link": "https://www.npr.org/2026/10/12/nx-s1-5998945/actor-selma-blair-removed-from-plane-by-police-after-altercation"
+    },
     {
       "title": "Federal agents search Rep. Ilhan Omar's DC home, DOJ says it approved the warrant",
       "link": "https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj"
@@ -9,14 +17,6 @@
     {
       "title": "India's opposition parties march to top court as protests over voter lists escalate",
       "link": "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests"
-    },
-    {
-      "title": "U.S. restrictions on Chinese drones are hurting cash-strapped police departments",
-      "link": "https://www.npr.org/2026/10/12/nx-s1-5888604/police-chinese-drones-bans-costs"
-    },
-    {
-      "title": "Here's what to know if you're unsure about your measles immunity status",
-      "link": "https://www.npr.org/2026/10/12/nx-s1-5991904/measles-vaccination-status-outbreak-extra-dose"
     }
   ]
 }
