@@ -1,7 +1,11 @@
 {
   "source": "NPR",
-  "updated": "2026-10-13 22:49 UTC",
+  "updated": "2026-10-14 01:56 UTC",
   "stories": [
+    {
+      "title": "Pope Leo has lung cancer, the Vatican announces after surgery",
+      "link": "https://www.npr.org/2026/10/13/g-s1-147968/pope-leo-has-lung-cancer-vatican-announces"
+    },
     {
       "title": "Bipartisan group of senators call on Trump to rescind Russian diesel deal",
       "link": "https://www.npr.org/2026/10/13/g-s1-147871/trump-russia-diesel-deal-congressional-response"
@@ -13,10 +17,6 @@
     {
       "title": "Cornell University bans frat parties, vows to address 'disturbing' campus culture",
       "link": "https://www.npr.org/2026/10/13/nx-s1-6000347/cornell-rape-ban-fraternity-parties"
-    },
-    {
-      "title": "The Trump administration warns Ukraine it could cut off intel, Zelenskyy tells NPR",
-      "link": "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war"
     }
   ]
 }
