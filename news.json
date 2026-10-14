@@ -1,7 +1,11 @@
 {
   "source": "NPR",
-  "updated": "2026-10-14 01:56 UTC",
+  "updated": "2026-10-14 07:42 UTC",
   "stories": [
+    {
+      "title": "CNN, MS NOW and Politico prevail against White House — for now",
+      "link": "https://www.npr.org/2026/10/14/nx-s1-6001398/white-house-media-ban"
+    },
     {
       "title": "Pope Leo has lung cancer, the Vatican announces after surgery",
       "link": "https://www.npr.org/2026/10/13/g-s1-147968/pope-leo-has-lung-cancer-vatican-announces"
@@ -13,10 +17,6 @@
     {
       "title": "A judge blocks the government's tree-clearing spree at a municipal D.C. golf course",
       "link": "https://www.npr.org/2026/10/13/nx-s1-6000055/east-potomac-golf-course-tree-clearing-judge"
-    },
-    {
-      "title": "Cornell University bans frat parties, vows to address 'disturbing' campus culture",
-      "link": "https://www.npr.org/2026/10/13/nx-s1-6000347/cornell-rape-ban-fraternity-parties"
     }
   ]
 }
