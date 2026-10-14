@@ -1,7 +1,15 @@
 {
   "source": "NPR",
-  "updated": "2026-10-14 18:40 UTC",
+  "updated": "2026-10-14 22:20 UTC",
   "stories": [
+    {
+      "title": "Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'",
+      "link": "https://www.npr.org/2026/10/14/nx-s1-6001592/arctic-sea-change-rana-foroohar"
+    },
+    {
+      "title": "'New Yorker' cartoonists admit to having 'The Two Saddest Kitchens'",
+      "link": "https://www.npr.org/2026/10/14/nx-s1-5996628/two-saddest-kitchens-review-roz-chast-jason-adam-katzenstein"
+    },
     {
       "title": "Inflation sizzled in September — and Social Security benefits will get a boost",
       "link": "https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits"
@@ -9,14 +17,6 @@
     {
       "title": "Hands-on with the Ocarina of Time remake, the most ornate Zelda game ever made",
       "link": "https://www.npr.org/2026/10/14/nx-s1-5961483/preview-zelda-ocarina-of-time-remake-switch-2"
-    },
-    {
-      "title": "These workers help train robots who could one day steal their jobs",
-      "link": "https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs"
-    },
-    {
-      "title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
-      "link": "https://www.npr.org/2026/10/14/g-s1-148027/trump-ambassador-greece-resignation"
     }
   ]
 }
