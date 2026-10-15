@@ -1,7 +1,11 @@
 {
   "source": "NPR",
-  "updated": "2026-10-15 13:28 UTC",
+  "updated": "2026-10-15 18:20 UTC",
   "stories": [
+    {
+      "title": "Inside a Chicago home, a photographer documents the life her family built",
+      "link": "https://www.npr.org/sections/the-picture-show/2026/10/15/nx-s1-6000095/chicago-family-immigrant-life-documentary-photography"
+    },
     {
       "title": "After booting 760K off ACA health plans, the Trump administration adds some people back",
       "link": "https://www.npr.org/2026/10/15/nx-s1-6002957/aca-fraud-trump-health-insurance"
@@ -13,10 +17,6 @@
     {
       "title": "Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training",
       "link": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training"
-    },
-    {
-      "title": "Essential items to stock in your medicine cabinet for cold and flu season",
-      "link": "https://www.npr.org/2026/10/15/nx-s1-6001703/essential-items-to-stock-in-your-medicine-cabinet-for-cold-and-flu-season"
     }
   ]
 }
