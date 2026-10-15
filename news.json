@@ -1,7 +1,15 @@
 {
   "source": "NPR",
-  "updated": "2026-10-15 18:20 UTC",
+  "updated": "2026-10-15 22:24 UTC",
   "stories": [
+    {
+      "title": "Suspicious mailings to election officials, congressional offices under investigation",
+      "link": "https://www.npr.org/2026/10/15/nx-s1-6003857/suspicious-mailings-election-congressional-offices"
+    },
+    {
+      "title": "U.S. historic preservation law faces the most serious threat in its 60-year history",
+      "link": "https://www.npr.org/2026/10/15/nx-s1-6001504/section-106-historic-preservation-act-threats-anniversary"
+    },
     {
       "title": "Inside a Chicago home, a photographer documents the life her family built",
       "link": "https://www.npr.org/sections/the-picture-show/2026/10/15/nx-s1-6000095/chicago-family-immigrant-life-documentary-photography"
@@ -9,14 +17,6 @@
     {
       "title": "After booting 760K off ACA health plans, the Trump administration adds some people back",
       "link": "https://www.npr.org/2026/10/15/nx-s1-6002957/aca-fraud-trump-health-insurance"
-    },
-    {
-      "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
-      "link": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war"
-    },
-    {
-      "title": "Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training",
-      "link": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training"
     }
   ]
 }
