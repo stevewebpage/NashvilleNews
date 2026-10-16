@@ -1,22 +1,22 @@
 {
   "source": "NPR",
-  "updated": "2026-10-16 17:28 UTC",
+  "updated": "2026-10-16 21:16 UTC",
   "stories": [
+    {
+      "title": "To Madvillainy and beyond: How Stones Throw Records created a galaxy of taste",
+      "link": "https://www.npr.org/2026/10/16/nx-s1-6005264/stones-throw-30th-oral-history"
+    },
+    {
+      "title": "Katie Zacharia is 'transitioning out' as press secretary, White House says",
+      "link": "https://www.npr.org/2026/10/16/nx-s1-6005317/trump-casts-doubt-on-press-secretarys-future"
+    },
+    {
+      "title": "Hot flashes, night sweats, insomnia – OB-GYNS set new rules for menopause treatment",
+      "link": "https://www.npr.org/2026/10/16/nx-s1-6005201/health-treatment-menopause-hot-flash-night-sweats-insomnia"
+    },
     {
       "title": "The new Elizabeth Holmes film blends fact, fiction and fraud",
       "link": "https://www.npr.org/2026/10/16/nx-s1-6001834/elizabeth-holmes-nathan-fielder-you-can-see-everything"
-    },
-    {
-      "title": "Amid talk of public execution, public opinion on death penalty is split",
-      "link": "https://www.npr.org/2026/10/16/g-s1-148404/public-opinion-execution-death-penalty"
-    },
-    {
-      "title": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
-      "link": "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank"
-    },
-    {
-      "title": "Crowds throng New Delhi and wave Indian flags amid escalating protests",
-      "link": "https://www.npr.org/2026/10/16/g-s1-148383/crowds-throng-new-delhi-and-wave-indian-flags-amid-escalating-protests"
     }
   ]
 }
