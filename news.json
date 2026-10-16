@@ -1,7 +1,15 @@
 {
   "source": "NPR",
-  "updated": "2026-10-16 01:25 UTC",
+  "updated": "2026-10-16 07:15 UTC",
   "stories": [
+    {
+      "title": "A rare family of barn owls moved into Manhattan's Upper West Side. New Yorkers are captivated",
+      "link": "https://www.npr.org/2026/10/16/g-s1-148366/owl-family-manhattan"
+    },
+    {
+      "title": "Brewers sweep the Dodgers to reach the World Series for the first time since 1982",
+      "link": "https://www.npr.org/2026/10/16/nx-s1-6004787/brewers-sweep-dodgers-mlb"
+    },
     {
       "title": "Hit a midlife wall? This test identifies your strengths and what matters to you",
       "link": "https://www.npr.org/2026/10/15/nx-s1-5996678/midlife-wall-reset-test-guide"
@@ -9,14 +17,6 @@
     {
       "title": "Suspicious mailings to election officials, congressional offices under investigation",
       "link": "https://www.npr.org/2026/10/15/nx-s1-6003857/suspicious-mailings-election-congressional-offices"
-    },
-    {
-      "title": "U.S. historic preservation law faces the most serious threat in its 60-year history",
-      "link": "https://www.npr.org/2026/10/15/nx-s1-6001504/section-106-historic-preservation-act-threats-anniversary"
-    },
-    {
-      "title": "Inside a Chicago home, a photographer documents the life her family built",
-      "link": "https://www.npr.org/sections/the-picture-show/2026/10/15/nx-s1-6000095/chicago-family-immigrant-life-documentary-photography"
     }
   ]
 }
