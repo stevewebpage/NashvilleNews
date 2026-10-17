@@ -1,7 +1,11 @@
 {
   "source": "NPR",
-  "updated": "2026-10-17 04:34 UTC",
+  "updated": "2026-10-17 09:26 UTC",
   "stories": [
+    {
+      "title": "Coastal homes burn as hot winds fuel California fires",
+      "link": "https://www.npr.org/2026/10/17/g-s1-148569/coastal-homes-burn-in-california-fires"
+    },
     {
       "title": "To Madvillainy and beyond: How Stones Throw Records created a galaxy of taste",
       "link": "https://www.npr.org/2026/10/16/nx-s1-6005264/stones-throw-30th-oral-history"
@@ -13,10 +17,6 @@
     {
       "title": "Hot flashes, night sweats, insomnia – OB-GYNS set new rules for menopause treatment",
       "link": "https://www.npr.org/2026/10/16/nx-s1-6005201/health-treatment-menopause-hot-flash-night-sweats-insomnia"
-    },
-    {
-      "title": "The new Elizabeth Holmes film blends fact, fiction and fraud",
-      "link": "https://www.npr.org/2026/10/16/nx-s1-6001834/elizabeth-holmes-nathan-fielder-you-can-see-everything"
     }
   ]
 }
