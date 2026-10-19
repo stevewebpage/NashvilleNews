@@ -1,22 +1,22 @@
 {
   "source": "NPR",
-  "updated": "2026-10-19 04:48 UTC",
+  "updated": "2026-10-19 10:50 UTC",
   "stories": [
+    {
+      "title": "The real reason it's going to take a while to know who won in some midterm races",
+      "link": "https://www.npr.org/2026/10/19/nx-s1-5982027/california-vote-counting-margins"
+    },
+    {
+      "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
+      "link": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast"
+    },
+    {
+      "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
+      "link": "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu"
+    },
     {
       "title": "Trump to close and renovate D.C. golf course, despite legal battle",
       "link": "https://www.npr.org/2026/10/18/nx-s1-6007384/trump-to-close-and-renovate-d-c-golf-course-despite-legal-battle"
-    },
-    {
-      "title": "What does a White House press secretary do?",
-      "link": "https://www.npr.org/2026/10/18/nx-s1-6006807/what-does-a-white-house-press-secretary-do"
-    },
-    {
-      "title": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
-      "link": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump"
-    },
-    {
-      "title": "Noah Adams, longtime host of NPR's All Things Considered, has died",
-      "link": "https://www.npr.org/2026/10/18/nx-s1-5556931/noah-adams-all-things-considered-has-died"
     }
   ]
 }
