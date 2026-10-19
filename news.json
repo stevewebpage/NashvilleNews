@@ -1,7 +1,15 @@
 {
   "source": "NPR",
-  "updated": "2026-10-18 23:18 UTC",
+  "updated": "2026-10-19 04:48 UTC",
   "stories": [
+    {
+      "title": "Trump to close and renovate D.C. golf course, despite legal battle",
+      "link": "https://www.npr.org/2026/10/18/nx-s1-6007384/trump-to-close-and-renovate-d-c-golf-course-despite-legal-battle"
+    },
+    {
+      "title": "What does a White House press secretary do?",
+      "link": "https://www.npr.org/2026/10/18/nx-s1-6006807/what-does-a-white-house-press-secretary-do"
+    },
     {
       "title": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
       "link": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump"
@@ -9,14 +17,6 @@
     {
       "title": "Noah Adams, longtime host of NPR's All Things Considered, has died",
       "link": "https://www.npr.org/2026/10/18/nx-s1-5556931/noah-adams-all-things-considered-has-died"
-    },
-    {
-      "title": "Pope Leo says he will gradually resume duties after cancer surgery",
-      "link": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery"
-    },
-    {
-      "title": "'From socialite to shopgirl': American Girl Samantha gets a new story",
-      "link": "https://www.npr.org/2026/10/18/nx-s1-5711243/american-girl-40-samantha-fiona-davis"
     }
   ]
 }
