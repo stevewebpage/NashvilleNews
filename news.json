@@ -1,22 +1,22 @@
 {
   "source": "NPR",
-  "updated": "2026-10-21 13:51 UTC",
+  "updated": "2026-10-21 18:41 UTC",
   "stories": [
     {
-      "title": "80 Israelis and Americans, including NY Democrat Brad Lander, detained in West Bank",
+      "title": "Supreme Court upholds pause on Trump's anti-trans prison policy",
+      "link": "https://www.npr.org/2026/10/21/nx-s1-5993878/supreme-court-trump-trans-prison-policy"
+    },
+    {
+      "title": "New human data hints at psychedelics' potential to combat inflammation",
+      "link": "https://www.npr.org/2026/10/21/nx-s1-6009441/psychedelics-brain-inflammation-immune-system"
+    },
+    {
+      "title": "Sentenced to death at 17, at 68, quilt artist receives solo museum exhibition",
+      "link": "https://www.npr.org/2026/10/21/nx-s1-6003634/sentenced-to-death-at-17-at-68-quilt-artist-receives-solo-museum-exhibition"
+    },
+    {
+      "title": "Israel detains dozens of Americans, including a congressional candidate, in West Bank",
       "link": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians"
-    },
-    {
-      "title": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
-      "link": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen"
-    },
-    {
-      "title": "Expecting a baby? 5 tips to help you prepare for pregnancy costs",
-      "link": "https://www.npr.org/2026/10/21/nx-s1-5996849/insurance-cost-baby-pregnancy"
-    },
-    {
-      "title": "2025 policing trend: Fewer serious crimes, more minor arrests",
-      "link": "https://www.npr.org/2026/10/21/nx-s1-6003663/crime-data-down-low-level-offenses-increase"
     }
   ]
 }
