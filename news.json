@@ -1,22 +1,22 @@
 {
   "source": "NPR",
-  "updated": "2026-10-21 18:41 UTC",
+  "updated": "2026-10-21 22:24 UTC",
   "stories": [
+    {
+      "title": "Poll: Voters want Congress to be a check on Trump, trust Democrats more on issues",
+      "link": "https://www.npr.org/2026/10/21/nx-s1-6011179/poll-democrats-republicans-trump-approval"
+    },
+    {
+      "title": "Meet the people moving north to escape increasingly hot summers",
+      "link": "https://www.npr.org/2026/10/21/nx-s1-5977837/climate-uk-usa-housing"
+    },
+    {
+      "title": "Top 2 Democrats on Intel say they're preparing for Trump to claim foreign meddling",
+      "link": "https://www.npr.org/2026/10/21/nx-s1-6011170/democrats-election-interference-preparations-president-trump"
+    },
     {
       "title": "Supreme Court upholds pause on Trump's anti-trans prison policy",
       "link": "https://www.npr.org/2026/10/21/nx-s1-5993878/supreme-court-trump-trans-prison-policy"
-    },
-    {
-      "title": "New human data hints at psychedelics' potential to combat inflammation",
-      "link": "https://www.npr.org/2026/10/21/nx-s1-6009441/psychedelics-brain-inflammation-immune-system"
-    },
-    {
-      "title": "Sentenced to death at 17, at 68, quilt artist receives solo museum exhibition",
-      "link": "https://www.npr.org/2026/10/21/nx-s1-6003634/sentenced-to-death-at-17-at-68-quilt-artist-receives-solo-museum-exhibition"
-    },
-    {
-      "title": "Israel detains dozens of Americans, including a congressional candidate, in West Bank",
-      "link": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians"
     }
   ]
 }
