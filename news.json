@@ -1,22 +1,22 @@
 {
   "source": "NPR",
-  "updated": "2026-10-22 13:50 UTC",
+  "updated": "2026-10-22 18:35 UTC",
   "stories": [
+    {
+      "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
+      "link": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino"
+    },
     {
       "title": "5 simple ways to relieve the aches and pains of sitting at a desk all day",
       "link": "https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day"
     },
     {
+      "title": "Trump merchandise stores are closing: 'He has peaked'",
+      "link": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms"
+    },
+    {
       "title": "A GOP congressman voted to cut Medicaid. It covers 62% of his district. Can he win?",
       "link": "https://www.npr.org/2026/10/22/nx-s1-6002928/republican-congress-midterms-medicaid-cuts-david-valadao-california"
-    },
-    {
-      "title": "Trump's redistricting gave Republicans a head start, now it goes to the voters",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6004891/trump-redistricting-advantage-midterms"
-    },
-    {
-      "title": "How long does it take to save up for a starter home? Twice as long as it did in 2019",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6009378/down-payment-real-estate-affordability"
     }
   ]
 }
