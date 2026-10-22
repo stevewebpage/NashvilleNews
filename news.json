@@ -1,7 +1,15 @@
 {
   "source": "NPR",
-  "updated": "2026-10-21 22:24 UTC",
+  "updated": "2026-10-22 01:34 UTC",
   "stories": [
+    {
+      "title": "AIPAC halts endorsements and direct contributions to candidates",
+      "link": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats"
+    },
+    {
+      "title": "The Justice Department begins notifying counties where it wants to monitor elections",
+      "link": "https://www.npr.org/2026/10/21/nx-s1-6009896/justice-department-monitors"
+    },
     {
       "title": "Poll: Voters want Congress to be a check on Trump, trust Democrats more on issues",
       "link": "https://www.npr.org/2026/10/21/nx-s1-6011179/poll-democrats-republicans-trump-approval"
@@ -9,14 +17,6 @@
     {
       "title": "Meet the people moving north to escape increasingly hot summers",
       "link": "https://www.npr.org/2026/10/21/nx-s1-5977837/climate-uk-usa-housing"
-    },
-    {
-      "title": "Top 2 Democrats on Intel say they're preparing for Trump to claim foreign meddling",
-      "link": "https://www.npr.org/2026/10/21/nx-s1-6011170/democrats-election-interference-preparations-president-trump"
-    },
-    {
-      "title": "Supreme Court upholds pause on Trump's anti-trans prison policy",
-      "link": "https://www.npr.org/2026/10/21/nx-s1-5993878/supreme-court-trump-trans-prison-policy"
     }
   ]
 }
