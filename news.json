@@ -1,7 +1,15 @@
 {
   "source": "NPR",
-  "updated": "2026-10-23 18:24 UTC",
+  "updated": "2026-10-23 22:15 UTC",
   "stories": [
+    {
+      "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war"
+    },
+    {
+      "title": "Ohio could decide control of the Senate. Its rural voters might decide the winner",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters"
+    },
     {
       "title": "A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that",
       "link": "https://www.npr.org/2026/10/23/nx-s1-6010488/east-potomac-trump-golf-hains-point"
@@ -9,14 +17,6 @@
     {
       "title": "'Possible Love' offers four of the best performances you'll see all year",
       "link": "https://www.npr.org/2026/10/23/nx-s1-6010586/possible-love-review"
-    },
-    {
-      "title": "'Clayface' is underbaked body horror",
-      "link": "https://www.npr.org/2026/10/23/nx-s1-6010511/clayface-review"
-    },
-    {
-      "title": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries",
-      "link": "https://www.npr.org/2026/10/23/g-s1-149534/justice-fbi-charged-hunter-biden-laptop"
     }
   ]
 }
