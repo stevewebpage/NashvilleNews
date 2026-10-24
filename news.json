@@ -1,7 +1,11 @@
 {
   "source": "NPR",
-  "updated": "2026-10-24 00:48 UTC",
+  "updated": "2026-10-24 05:57 UTC",
   "stories": [
+    {
+      "title": "Severe flooding hits Four Corners region, more expected through the weekend",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners"
+    },
     {
       "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
       "link": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war"
@@ -13,10 +17,6 @@
     {
       "title": "A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that",
       "link": "https://www.npr.org/2026/10/23/nx-s1-6010488/east-potomac-trump-golf-hains-point"
-    },
-    {
-      "title": "'Possible Love' offers four of the best performances you'll see all year",
-      "link": "https://www.npr.org/2026/10/23/nx-s1-6010586/possible-love-review"
     }
   ]
 }
