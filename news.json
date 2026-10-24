@@ -1,22 +1,22 @@
 {
   "source": "NPR",
-  "updated": "2026-10-24 05:57 UTC",
+  "updated": "2026-10-24 11:09 UTC",
   "stories": [
+    {
+      "title": "This decade has been missing its big-impact midterm",
+      "link": "https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate"
+    },
+    {
+      "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
+      "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels"
+    },
     {
       "title": "Severe flooding hits Four Corners region, more expected through the weekend",
       "link": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners"
     },
     {
-      "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
-      "link": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war"
-    },
-    {
-      "title": "Ohio could decide control of the Senate. Its rural voters might decide the winner",
-      "link": "https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters"
-    },
-    {
-      "title": "A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that",
-      "link": "https://www.npr.org/2026/10/23/nx-s1-6010488/east-potomac-trump-golf-hains-point"
+      "title": "Russia steps up election influence efforts in final stretch of midterms",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-5995508/russia-midterms-election-influence"
     }
   ]
 }
