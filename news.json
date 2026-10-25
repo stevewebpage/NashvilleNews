@@ -1,7 +1,15 @@
 {
   "source": "NPR",
-  "updated": "2026-10-25 18:25 UTC",
+  "updated": "2026-10-25 21:51 UTC",
   "stories": [
+    {
+      "title": "U.S. measles cases more than double what they were last year as outbreak spreads",
+      "link": "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania"
+    },
+    {
+      "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
+      "link": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses"
+    },
     {
       "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
       "link": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile"
@@ -9,14 +17,6 @@
     {
       "title": "Israelis have changed. Will they change their leadership?",
       "link": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu"
-    },
-    {
-      "title": "This College of Magic turns ordinary kids into cool magicians",
-      "link": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students"
-    },
-    {
-      "title": "In this new kids' book, it's 'Snow Geese Season' for a little boy and his Pop",
-      "link": "https://www.npr.org/2026/10/25/nx-s1-5871193/snow-geese-season-angela-burke-kunkel-eb-goodale"
     }
   ]
 }
