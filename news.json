@@ -1,7 +1,11 @@
 {
   "source": "NPR",
-  "updated": "2026-10-26 00:25 UTC",
+  "updated": "2026-10-26 06:19 UTC",
   "stories": [
+    {
+      "title": "Brazil's left-wing President Lula elected for fourth term",
+      "link": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election"
+    },
     {
       "title": "U.S. measles cases more than double what they were last year as outbreak spreads",
       "link": "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania"
@@ -13,10 +17,6 @@
     {
       "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
       "link": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile"
-    },
-    {
-      "title": "Israelis have changed. Will they change their leadership?",
-      "link": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu"
     }
   ]
 }
