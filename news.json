@@ -1,7 +1,15 @@
 {
   "source": "NPR",
-  "updated": "2026-10-27 19:26 UTC",
+  "updated": "2026-10-27 23:48 UTC",
   "stories": [
+    {
+      "title": "Southwest flood damage estimates are hundreds of millions for New Mexico alone",
+      "link": "https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone"
+    },
+    {
+      "title": "Israel's election has a high turnout, lifting opposition hopes of beating Netanyahu",
+      "link": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections"
+    },
     {
       "title": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
       "link": "https://www.npr.org/2026/10/27/nx-s1-6019192/east-potomac-golf-course-renovations-blocked-appeal"
@@ -9,14 +17,6 @@
     {
       "title": "Filmmaking is 'our weapon against intolerance,' say 'La Bola Negra' directors",
       "link": "https://www.npr.org/2026/10/27/nx-s1-6017755/la-bola-negra-los-javis-calvo-ambrossi"
-    },
-    {
-      "title": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede",
-      "link": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump"
-    },
-    {
-      "title": "Discursive Verses: Jay-Z, the Super Bowl and playing with house money",
-      "link": "https://www.npr.org/2026/10/27/nx-s1-6019093/the-week-in-hip-hop-jay-z-super-bowl"
     }
   ]
 }
