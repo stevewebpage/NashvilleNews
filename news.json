@@ -1,22 +1,22 @@
 {
   "source": "NPR",
-  "updated": "2026-10-28 13:03 UTC",
+  "updated": "2026-10-28 18:53 UTC",
   "stories": [
     {
-      "title": "At least 30 dead in crash between two trains in central Spain, media say",
+      "title": "Fed holds interest rates steady even as inflation remains stubborn",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation"
+    },
+    {
+      "title": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies"
+    },
+    {
+      "title": "What's gone up even faster than gas or rent? The cost of caregiving",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-6019319/caregiving-costs-aarp-affordability"
+    },
+    {
+      "title": "Dozens are dead in a high-speed train crash in Spain",
       "link": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster"
-    },
-    {
-      "title": "How a lifelong Republican came to lead the data center battle in Ohio",
-      "link": "https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio"
-    },
-    {
-      "title": "Why many student voters have a right to choose where to register to vote",
-      "link": "https://www.npr.org/2026/10/28/nx-s1-5793936/college-student-voting"
-    },
-    {
-      "title": "Partnerships between ICE and local police surge, report finds",
-      "link": "https://www.npr.org/2026/10/28/g-s1-150296/287g-local-police-immigration-ice"
     }
   ]
 }
