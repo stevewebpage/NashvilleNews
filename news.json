@@ -1,7 +1,11 @@
 {
   "source": "NPR",
-  "updated": "2026-10-28 23:15 UTC",
+  "updated": "2026-10-29 02:30 UTC",
   "stories": [
+    {
+      "title": "Judge denies the Justice Department's bid to stop processing California ballots",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied"
+    },
     {
       "title": "Trump administration will allow pharmacies to make popular peptides",
       "link": "https://www.npr.org/2026/10/28/nx-s1-6021030/peptides-compounding-enforcement"
@@ -11,12 +15,8 @@
       "link": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane"
     },
     {
-      "title": "New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway",
-      "link": "https://www.npr.org/2026/10/28/nx-s1-6019370/jordan-neely-daniel-penny-anand-giridharadas-man-in-the-mirror"
-    },
-    {
-      "title": "Fed holds interest rates steady even as inflation remains stubborn",
-      "link": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation"
+      "title": "Thomas Mann returns to his 'Fatherland' in this practically flawless film",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-6020549/fatherland-review-thomas-mann"
     }
   ]
 }
