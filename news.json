@@ -1,22 +1,22 @@
 {
   "source": "NPR",
-  "updated": "2026-10-29 21:50 UTC",
+  "updated": "2026-10-30 01:59 UTC",
   "stories": [
+    {
+      "title": "Justice Department issues subpoenas to California election workers",
+      "link": "https://www.npr.org/2026/10/29/nx-s1-6022560/doj-subpoenas-california-election"
+    },
+    {
+      "title": "Alaska's all-important Senate race is roiled by a report on alleged spoiler candidate",
+      "link": "https://www.npr.org/2026/10/29/nx-s1-6022069/alaskas-all-important-senate-race-is-roiled-by-report-on-alleged-spoiler-candidate"
+    },
+    {
+      "title": "Candy prices got you scared stiff? What to know about the cost of Halloween this year",
+      "link": "https://www.npr.org/2026/10/29/nx-s1-6018566/candy-prices-got-you-scared-stiff-what-to-know-about-the-cost-of-halloween-this-year"
+    },
     {
       "title": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
       "link": "https://www.npr.org/2026/10/29/1230906945/patrick-stewart-dead"
-    },
-    {
-      "title": "Lost your spark? The \"silent sister\" of depression, and a quiz to spot her",
-      "link": "https://www.npr.org/2026/10/29/nx-s1-5996687/anhedonia-quiz-high-functioning-depression"
-    },
-    {
-      "title": "Even birds get jet lagged, study shows",
-      "link": "https://www.npr.org/2026/10/29/nx-s1-6019228/manx-shearwater-jet-lag-birds"
-    },
-    {
-      "title": "US and Japan agree to establish a Japanese facility for joint missile production",
-      "link": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production"
     }
   ]
 }
