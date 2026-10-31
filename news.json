@@ -1,22 +1,22 @@
 {
   "source": "NPR",
-  "updated": "2026-10-31 00:50 UTC",
+  "updated": "2026-10-31 07:01 UTC",
   "stories": [
+    {
+      "title": "Despite concerns, the Trump administration still sends pregnant migrant minors to south Texas",
+      "link": "https://www.npr.org/2026/10/30/nx-s1-6022578/minors-pregnant-migrant-texas-trump"
+    },
+    {
+      "title": "Halloween temperatures have been trending hotter. Here's what the data shows",
+      "link": "https://www.npr.org/2026/10/30/nx-s1-6014722/halloween-temperatures-have-been-trending-hotter-heres-what-the-data-shows"
+    },
+    {
+      "title": "Here's what it's like to live in Salem, Mass., during the Halloween tourism season",
+      "link": "https://www.npr.org/2026/10/30/nx-s1-6011072/heres-what-its-like-to-live-in-salem-mass-during-the-halloween-tourism-season"
+    },
     {
       "title": "Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case",
       "link": "https://www.npr.org/2026/10/30/nx-s1-6023328/east-potomac-reyes-misconduct-inquiry-doj"
-    },
-    {
-      "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
-      "link": "https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms"
-    },
-    {
-      "title": "NPR special: 5 takeaways from a year of listening to swing voters",
-      "link": "https://www.npr.org/2026/10/30/nx-s1-6008113/npr-special-swing-voter-focus-groups"
-    },
-    {
-      "title": "'La Bola Negra' falls short of its maximalist ambitions",
-      "link": "https://www.npr.org/2026/10/30/nx-s1-6019371/la-bola-negra-review-los-javis"
     }
   ]
 }
