@@ -1,7 +1,15 @@
 {
   "source": "NPR",
-  "updated": "2026-10-31 18:36 UTC",
+  "updated": "2026-10-31 22:31 UTC",
   "stories": [
+    {
+      "title": "France seethes again as youth-led protests sweep Europe",
+      "link": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe"
+    },
+    {
+      "title": "Key takeaways from this week's political meeting in Beijing",
+      "link": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways"
+    },
     {
       "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
       "link": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea"
@@ -9,14 +17,6 @@
     {
       "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
       "link": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate"
-    },
-    {
-      "title": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
-      "link": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners"
-    },
-    {
-      "title": "Jack Nicholson was scary. But Shelley Duvall delivered the real horror in 'The Shining'",
-      "link": "https://www.npr.org/2026/10/31/nx-s1-6022422/halloween-movie-the-shining-shelley-duvall"
     }
   ]
 }
