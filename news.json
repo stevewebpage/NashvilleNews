@@ -1,7 +1,11 @@
 {
   "source": "NPR",
-  "updated": "2026-10-30 20:50 UTC",
+  "updated": "2026-10-31 00:50 UTC",
   "stories": [
+    {
+      "title": "Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case",
+      "link": "https://www.npr.org/2026/10/30/nx-s1-6023328/east-potomac-reyes-misconduct-inquiry-doj"
+    },
     {
       "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
       "link": "https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms"
@@ -13,10 +17,6 @@
     {
       "title": "'La Bola Negra' falls short of its maximalist ambitions",
       "link": "https://www.npr.org/2026/10/30/nx-s1-6019371/la-bola-negra-review-los-javis"
-    },
-    {
-      "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-      "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance"
     }
   ]
 }
