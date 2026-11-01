@@ -1,7 +1,11 @@
 {
   "source": "NPR",
-  "updated": "2026-10-31 22:31 UTC",
+  "updated": "2026-11-01 02:16 UTC",
   "stories": [
+    {
+      "title": "Virginia and D.C. sue to block construction of Trump arch",
+      "link": "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch"
+    },
     {
       "title": "France seethes again as youth-led protests sweep Europe",
       "link": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe"
@@ -13,10 +17,6 @@
     {
       "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
       "link": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea"
-    },
-    {
-      "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
-      "link": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate"
     }
   ]
 }
