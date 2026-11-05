@@ -1,22 +1,22 @@
 {
   "source": "NPR",
-  "updated": "2026-11-04 21:55 UTC",
+  "updated": "2026-11-05 02:31 UTC",
   "stories": [
+    {
+      "title": "Where voters stand on state ballot measures, from abortion to LGBTQ rights to guns",
+      "link": "https://www.npr.org/2026/11/04/nx-s1-6028833/midterms-ballot-measures-abortion-lgbtq-guns"
+    },
+    {
+      "title": "Elon Musk will face scrutiny from Democrats after midterms",
+      "link": "https://www.npr.org/2026/11/04/nx-s1-6029650/elon-musk-midterms-democrats-texas-congress"
+    },
+    {
+      "title": "Democratic leaders reflect on midterm results and what's next for the party",
+      "link": "https://www.npr.org/2026/11/04/g-s1-151868/democratic-leaders-election-results-reactions-takeaways"
+    },
     {
       "title": "It was a big night for doctors to win seats in Congress, riding the blue wave",
       "link": "https://www.npr.org/2026/11/04/nx-s1-6017757/democrats-republicans-doctors-acton-andrews-blue-wave"
-    },
-    {
-      "title": "Herbert Blomstedt, conductor of great orchestras for seven decades, dies at 99",
-      "link": "https://www.npr.org/2026/11/04/nx-s1-5740271/herbert-blomstedt-conductor-dead"
-    },
-    {
-      "title": "Chuck Schumer heralds Democrats' 'generational remake' of Senate",
-      "link": "https://www.npr.org/2026/11/04/g-s1-151833/2026-midterms-chuck-schumer-senate-democrats"
-    },
-    {
-      "title": "Mike Johnson will step aside as top House Republican next Congress",
-      "link": "https://www.npr.org/2026/11/04/g-s1-151854/2026-midterms-mike-johnson-speaker"
     }
   ]
 }
