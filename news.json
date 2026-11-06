@@ -1,7 +1,15 @@
 {
   "source": "NPR",
-  "updated": "2026-11-06 00:20 UTC",
+  "updated": "2026-11-06 07:57 UTC",
   "stories": [
+    {
+      "title": "A judge blocks construction of Trump's arch moments after it won federal approval",
+      "link": "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction"
+    },
+    {
+      "title": "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections"
+    },
     {
       "title": "These are the races in the House and Senate that haven't been called yet",
       "link": "https://www.npr.org/2026/11/05/g-s1-152127/house-senate-uncalled-races"
@@ -9,14 +17,6 @@
     {
       "title": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
       "link": "https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine"
-    },
-    {
-      "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
-      "link": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse"
-    },
-    {
-      "title": "Head of Justice Department office on Civil Rights resigns",
-      "link": "https://www.npr.org/2026/11/05/g-s1-152080/head-of-justice-department-office-on-civil-rights-resigns"
     }
   ]
 }
