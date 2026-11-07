@@ -1,7 +1,11 @@
 {
   "source": "NPR",
-  "updated": "2026-11-06 21:33 UTC",
+  "updated": "2026-11-07 01:58 UTC",
   "stories": [
+    {
+      "title": "Israel's Arab-led parties in spotlight after inconclusive election",
+      "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties"
+    },
     {
       "title": "The incoming class of U.S. senators is full of historic firsts",
       "link": "https://www.npr.org/2026/11/06/nx-s1-6032814/senate-history-election-pappas-andrews-el-sayed"
@@ -13,10 +17,6 @@
     {
       "title": "No one knows how many ballots are outstanding in Mississippi's Senate race",
       "link": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots"
-    },
-    {
-      "title": "Stephen Miller will replace Susie Wiles as Trump's chief of staff",
-      "link": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff"
     }
   ]
 }
