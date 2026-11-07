@@ -1,7 +1,15 @@
 {
   "source": "NPR",
-  "updated": "2026-11-07 15:42 UTC",
+  "updated": "2026-11-07 20:15 UTC",
   "stories": [
+    {
+      "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
+      "link": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15"
+    },
+    {
+      "title": "Ousted Paraguayan president appears before prosecutors",
+      "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse"
+    },
     {
       "title": "A promising new medicine against heart disease fails unexpectedly",
       "link": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack"
@@ -9,14 +17,6 @@
     {
       "title": "Democrats plan to widen their probes of fatal ICE shootings",
       "link": "https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings"
-    },
-    {
-      "title": "This teen boy set out to get people talking about periods. He's now a Diana honoree",
-      "link": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma"
-    },
-    {
-      "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
-      "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium"
     }
   ]
 }
