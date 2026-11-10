@@ -1,22 +1,22 @@
 {
   "source": "NPR",
-  "updated": "2026-11-09 22:26 UTC",
+  "updated": "2026-11-10 04:38 UTC",
   "stories": [
+    {
+      "title": "California voters defeat billionaire tax proposal that divided Democrats",
+      "link": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum"
+    },
+    {
+      "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
+      "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks"
+    },
+    {
+      "title": "Turkey hosts world climate summit, but some critics accuse it of 'greenwashing'",
+      "link": "https://www.npr.org/2026/11/09/nx-s1-5996456/turkey-hosts-world-climate-summit-but-some-critics-accuse-it-of-greenwashing"
+    },
     {
       "title": "Apocalyptic sci-fi novel 'The End of Everything' wins this year's Booker Prize",
       "link": "https://www.npr.org/2026/11/09/nx-s1-6028700/2026-booker-prize-winner-the-end-of-everything"
-    },
-    {
-      "title": "Supreme Court says border wall construction can continue in west Texas",
-      "link": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump"
-    },
-    {
-      "title": "Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
-      "link": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth"
-    },
-    {
-      "title": "We are still puzzling over the mysteries of Edgar Allan Poe and Arthur Conan Doyle",
-      "link": "https://www.npr.org/2026/11/09/nx-s1-6032766/edgar-allan-poe-arthur-conan-doyle-sherlock-holmes"
     }
   ]
 }
