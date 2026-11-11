@@ -1,7 +1,15 @@
 {
   "source": "NPR",
-  "updated": "2026-11-10 20:51 UTC",
+  "updated": "2026-11-11 01:16 UTC",
   "stories": [
+    {
+      "title": "House votes to effectively end the impeachment effort against Pete Hegseth",
+      "link": "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth"
+    },
+    {
+      "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
+      "link": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones"
+    },
     {
       "title": "U.S. boycotts U.N. human rights review for second year running",
       "link": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva"
@@ -9,14 +17,6 @@
     {
       "title": "Americans across the economic spectrum feel a 'panic' about finances, author says",
       "link": "https://www.npr.org/2026/11/10/nx-s1-6032767/mona-chalabi-ten-lives"
-    },
-    {
-      "title": "Gas prices dip below $4 but inflation remains stubbornly high",
-      "link": "https://www.npr.org/2026/11/10/nx-s1-6034518/inflation-consumer-prices-economy-gas-prices"
-    },
-    {
-      "title": "'Like gods reigning over humans': Many defectors see daughter of North Korea's Kim as heir apparent",
-      "link": "https://www.npr.org/2026/11/10/g-s1-152795/like-gods-reigning-over-humans-many-defectors-see-daughter-of-north-koreas-kim-as-heir-apparent"
     }
   ]
 }
