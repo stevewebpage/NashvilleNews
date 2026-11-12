@@ -1,7 +1,11 @@
 {
   "source": "NPR",
-  "updated": "2026-11-11 22:47 UTC",
+  "updated": "2026-11-12 03:51 UTC",
   "stories": [
+    {
+      "title": "Democrat Scott Colom wins Mississippi Senate race",
+      "link": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom"
+    },
     {
       "title": "Why is gasoline suddenly under $4 a gallon?",
       "link": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon"
@@ -13,10 +17,6 @@
     {
       "title": "Kennedy relatives join the fight against Trump's arch, alleging harm to JFK's grave",
       "link": "https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery"
-    },
-    {
-      "title": "Actor Stacy Keach, who played a private eye and plenty more, dies at 85",
-      "link": "https://www.npr.org/2026/11/11/728054385/stacy-keach-dead"
     }
   ]
 }
