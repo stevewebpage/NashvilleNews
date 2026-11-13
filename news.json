@@ -1,7 +1,11 @@
 {
   "source": "NPR",
-  "updated": "2026-11-13 01:52 UTC",
+  "updated": "2026-11-13 09:38 UTC",
   "stories": [
+    {
+      "title": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader",
+      "link": "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader"
+    },
     {
       "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
       "link": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps"
@@ -13,10 +17,6 @@
     {
       "title": "What's a Honey Trap? The spy tactic that helped topple Jensen Huang",
       "link": "https://www.npr.org/2026/11/12/nx-s1-6039266/jensen-huang-china-honey-trap-nvidia-spies-sex-alice-huang"
-    },
-    {
-      "title": "After career detours, drifting rap phenoms find their way back to the road",
-      "link": "https://www.npr.org/2026/11/12/nx-s1-6032893/lil-baby-jack-harlow-sob-rbe-review"
     }
   ]
 }
