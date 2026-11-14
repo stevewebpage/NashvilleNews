@@ -1,22 +1,22 @@
 {
   "source": "NPR",
-  "updated": "2026-11-14 06:33 UTC",
+  "updated": "2026-11-14 14:13 UTC",
   "stories": [
+    {
+      "title": "Men on a mission: U2 is back, again. Are they cool this time?",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6040417/u2-carnaval-de-luz-album-review"
+    },
+    {
+      "title": "An organ transplant controversy tests 'the dead donor rule'",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics"
+    },
+    {
+      "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test"
+    },
     {
       "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
       "link": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins"
-    },
-    {
-      "title": "The role of a pilot during a ground stop, according to an expert",
-      "link": "https://www.npr.org/2026/11/13/nx-s1-6040446/the-role-of-a-pilot-during-a-ground-stop-according-to-an-expert"
-    },
-    {
-      "title": "What passengers at D.C.'s Reagan National Airport say about the FAA ground stop",
-      "link": "https://www.npr.org/2026/11/13/nx-s1-6040422/what-passengers-at-d-c-s-reagan-national-airport-say-about-the-faa-ground-stop"
-    },
-    {
-      "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
-      "link": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop"
     }
   ]
 }
