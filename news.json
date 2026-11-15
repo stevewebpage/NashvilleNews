@@ -1,7 +1,15 @@
 {
   "source": "NPR",
-  "updated": "2026-11-14 23:03 UTC",
+  "updated": "2026-11-15 02:45 UTC",
   "stories": [
+    {
+      "title": "FAA ground stop disrupts college football",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays"
+    },
+    {
+      "title": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei"
+    },
     {
       "title": "US has lost measles elimination status, global health authorities say",
       "link": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho"
@@ -9,14 +17,6 @@
     {
       "title": "SpaceX successfully catches Starship and makes history",
       "link": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history"
-    },
-    {
-      "title": "'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead",
-      "link": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference"
-    },
-    {
-      "title": "Tiny Desk Radio: Nduduzo Makhathini, Burna Boy, Ayra Starr",
-      "link": "https://www.npr.org/2026/11/14/g-s1-153759/tiny-desk-radio-nduduzo-makhathini-burna-boy-ayra-starr"
     }
   ]
 }
