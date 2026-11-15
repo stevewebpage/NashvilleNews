@@ -1,11 +1,7 @@
 {
   "source": "NPR",
-  "updated": "2026-11-15 11:03 UTC",
+  "updated": "2026-11-15 17:47 UTC",
   "stories": [
-    {
-      "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
-      "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families"
-    },
     {
       "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
       "link": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop"
@@ -13,6 +9,10 @@
     {
       "title": "A new generation of disability rights activists carry on Judy Heumann's legacy",
       "link": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights"
+    },
+    {
+      "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
+      "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families"
     },
     {
       "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
