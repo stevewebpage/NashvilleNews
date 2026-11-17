@@ -1,7 +1,15 @@
 {
   "source": "NPR",
-  "updated": "2026-11-16 22:12 UTC",
+  "updated": "2026-11-17 04:33 UTC",
   "stories": [
+    {
+      "title": "California sues OpenAI over hacking risks",
+      "link": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident"
+    },
+    {
+      "title": "If Robert Pattinson is James Bond, 007 needs to get a little weird",
+      "link": "https://www.npr.org/2026/11/16/nx-s1-6042545/if-robert-pattinson-is-james-bond-007-needs-to-get-a-little-weird"
+    },
     {
       "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
       "link": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department"
@@ -9,14 +17,6 @@
     {
       "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
       "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones"
-    },
-    {
-      "title": "A family runs afoul of the Russian mob in the terrific 'Paper Tiger'",
-      "link": "https://www.npr.org/2026/11/16/nx-s1-6040155/paper-tiger-review"
-    },
-    {
-      "title": "Robert Pattinson is the next James Bond",
-      "link": "https://www.npr.org/2026/11/16/nx-s1-6042420/james-bond-casting-robert-pattinson"
     }
   ]
 }
