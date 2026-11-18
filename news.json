@@ -1,22 +1,22 @@
 {
   "source": "NPR",
-  "updated": "2026-11-17 22:56 UTC",
+  "updated": "2026-11-18 04:28 UTC",
   "stories": [
+    {
+      "title": "Mary Peltola flips Alaska's Senate seat into Democrats' column",
+      "link": "https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan"
+    },
+    {
+      "title": "Families push more air safety measures as FAA grapples with system improvements",
+      "link": "https://www.npr.org/2026/11/17/nx-s1-6043131/families-push-more-air-safety-measures-as-faa-grapples-with-system-improvements"
+    },
+    {
+      "title": "Air travel, Microsoft, banking: Why are our IT systems failing?",
+      "link": "https://www.npr.org/2026/11/17/nx-s1-6043850/air-travel-microsoft-banking-why-are-our-it-systems-failing"
+    },
     {
       "title": "Take a look, it's in his book: LeVar Burton writes a memoir",
       "link": "https://www.npr.org/2026/11/17/nx-s1-6043200/levar-burton-reading-rainbow-star-trek-roots-memoir"
-    },
-    {
-      "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
-      "link": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain"
-    },
-    {
-      "title": "Nvidia board says it does not intend to reinstate Jensen Huang as CEO",
-      "link": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress"
-    },
-    {
-      "title": "Sen. Jack Reed says FAA needs a real plan, not just more money",
-      "link": "https://www.npr.org/2026/11/17/nx-s1-6042514/jack-reed-faa-oversight-ground-stop-funding"
     }
   ]
 }
