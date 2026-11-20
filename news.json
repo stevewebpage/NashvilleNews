@@ -1,7 +1,15 @@
 {
   "source": "NPR",
-  "updated": "2026-11-19 22:12 UTC",
+  "updated": "2026-11-20 03:25 UTC",
   "stories": [
+    {
+      "title": "How the Steadicam sprinted up the stairs along with Rocky",
+      "link": "https://www.npr.org/2026/11/19/nx-s1-6027243/rocky-steadicam-garrett-brown"
+    },
+    {
+      "title": "Armand Hammer has what it takes to outlast the end times",
+      "link": "https://www.npr.org/2026/11/19/nx-s1-6044229/armand-hammer-snakes-ladders-review"
+    },
     {
       "title": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
       "link": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders"
@@ -9,14 +17,6 @@
     {
       "title": "The 'Magic Six': How to strengthen your marriage in midlife",
       "link": "https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships"
-    },
-    {
-      "title": "The midterms were the largest win for either party in 50 years",
-      "link": "https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority"
-    },
-    {
-      "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
-      "link": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya"
     }
   ]
 }
