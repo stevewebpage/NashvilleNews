@@ -1,7 +1,15 @@
 {
   "source": "NPR",
-  "updated": "2026-11-25 15:41 UTC",
+  "updated": "2026-11-26 00:27 UTC",
   "stories": [
+    {
+      "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
+      "link": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection"
+    },
+    {
+      "title": "Group of Senate Democrats push to add freshman to leadership",
+      "link": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen"
+    },
     {
       "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
       "link": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer"
@@ -9,14 +17,6 @@
     {
       "title": "What to know before using AI agents for Black Friday shopping",
       "link": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping"
-    },
-    {
-      "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
-      "link": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania"
-    },
-    {
-      "title": "Fruitcake weather! Truman Capote reads 'A Christmas Memory'",
-      "link": "https://www.npr.org/2026/11/25/nx-s1-6037810/truman-capote-reads-a-christmas-memory"
     }
   ]
 }
