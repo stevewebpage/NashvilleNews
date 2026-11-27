@@ -1,7 +1,11 @@
 {
   "source": "NPR",
-  "updated": "2026-11-26 19:40 UTC",
+  "updated": "2026-11-27 02:54 UTC",
   "stories": [
+    {
+      "title": "The case for data centers",
+      "link": "https://www.npr.org/2026/11/26/nx-s1-6030630/the-case-for-data-centers"
+    },
     {
       "title": "Black and tan coonhound Rocker is top dog at the 2026 National Dog Show",
       "link": "https://www.npr.org/2026/11/26/nx-s1-6054881/2026-national-dog-show-coonhound-rocker"
@@ -13,10 +17,6 @@
     {
       "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
       "link": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump"
-    },
-    {
-      "title": "At Albuquerque's Indian Pueblo Kitchen, Native American dishes are the main course",
-      "link": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque"
     }
   ]
 }
