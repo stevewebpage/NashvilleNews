@@ -1,7 +1,11 @@
 {
   "source": "NPR",
-  "updated": "2026-11-28 03:56 UTC",
+  "updated": "2026-11-28 13:07 UTC",
   "stories": [
+    {
+      "title": "New wave of Democratic attorneys general may reshape the justice system",
+      "link": "https://www.npr.org/2026/11/28/g-s1-155837/democratic-attorneys-general-justice-system-texas"
+    },
     {
       "title": "17 films to see before New Year's, from Oscar-bait to blockbusters",
       "link": "https://www.npr.org/2026/11/27/nx-s1-6010507/avengers-doomsday-dune-part-three-artificial-jumanji-the-debut-movies-in-theaters"
@@ -13,10 +17,6 @@
     {
       "title": "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
       "link": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday"
-    },
-    {
-      "title": "Can luxury save Macy's?",
-      "link": "https://www.npr.org/2026/11/27/nx-s1-6026486/macys-tries-to-reinvent-with-luxury"
     }
   ]
 }
